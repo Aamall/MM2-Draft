@@ -1,0 +1,44 @@
+:toc:
+:toc: left
+:imagesdir: ./images 
+
+
+= La Famille de Logiciels : 
+
+Ce chapitre montre les différentes types de logiciels. 
+
+Il faut bien noter la différence entre le *Logiciels*, *Programme* et *Application*. 
+
+*Le Logiciel* : applique une ou plusieurs opérations pour transformer des données d'un état A vers un état B.
+Donc un logiciel traite des données à travers une ou plusieurs séquences d'instractions. 
+
+*Le Programme* : est une séquences d'instractions. 
+De cette définition on remarque qu'un logiciel est la compilation d'un ensemble de *programmes*.
+
+*L'Application* : est la mise à disposition de fonctionnels pour un usage précis et identifié. 
+
+ 
+.Les Matériels
+[caption="Figure 1: "]
+image::Les-Materiels.jpg[Les Materiels]
+
+.PlateFormes Ordinateurs
+[caption="Figure 2: "]
+image::Plate-Formes-Ordinateur.jpg[PlateFormes Ordinateurs]
+
+.PlateFormes SmartPhone
+[caption="Figure 3: "]
+image::Plate-Formes-Smart-Phone.jpg[PlateFormes SmartPhone]
+
+.Systèmes Logiciels
+[caption="Figure 4: "]
+image::Systemes-Logiciels.jpg[Systèmes Logiciels]
+
+.Logiciels Informatiques
+[caption="Figure 5: "]
+image::Logiciels-Informatiques.jpg[Logiciels Informatiques]
+
+.Logiciels d'Application
+[caption="Figure 6: "]
+image::Logiciels-de-Application.jpg[Logiciels d'Application]
+
