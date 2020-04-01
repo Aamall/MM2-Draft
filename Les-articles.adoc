@@ -175,6 +175,77 @@ raisons pour lesquelles l'usager se sépare d'un produit. Elle diffèrent égale
 style, durabilité symbolique, changement dans la vie du consommateur).
 ** Obsolescence par péremption, obsolescence écologique.
 
+== What does Sustainability mean in and for Software Engineering? :
+
+* The general definition of sustainability as “the capacity to endure” and sustainable development as “meeting the needs of the present 
+without compromising the ability of future generations to meet their own needs.
+* Define “green and sustainable software” such that “direct and indirect negative impacts on economy, society, human beings, and environment that result 
+from development, deployment, and usage of the software (...) ha(ve) a positive effect on sustainable development”, and “Green and
+Sustainable Software Engineering” such that the “negative and positive impacts on sustainable development (...) are continuously assessed, documented,
+and used for a further optimization of the software product”.
+* Which system shall be preserved in which function over which time horizon? These parameters are used in the following to set the context for the
+sustainability aspects in software engineering.
+* ASPECTS OF SUSTAINABILITY IN SOFTWARE ENGINEERING : 
+** Development Process Aspect: Sustainability during the initial software development process means development with responsible use of ecological,
+human, and financial resources.
+** Maintenance Process Aspect: Sustainability of the software system during its maintenance period until replacement by a new system includes 
+continuous monitoring of quality and knowledge management.
+** System Production Aspect: Sustainability of the software system as product with respect to its use of resources for production is achieved,
+for example, by using green IT principles, sustainably produced hardware components, and optimising the required logistics for assembly, etc.
+** System Usage Aspect: Sustainability in the usage processes within the application domain triggered by the software system as product takes into
+account responsibility for the environmental impact and designing green business processes.
+
+== Green IT and Green IS: Definition of Constructs and Overview of Current Practices : 
+Cité 67 fois researchgate.net
+https://www.researchgate.net/profile/Fabian_Loeser/publication/267737651_Green_IT_and_Green_IS_Definition_of_Constructs_and_Overview_of_Current_Practices_Completed_Research_Paper/links/5458cd700cf2cf516483bb66.pdf
+
+
+* Sustainable management is understood as a long-term process of simultaneously optimizing economic, environmental and social performance while taking 
+natural resource restrictions into account, thus allowing for enduring business activities without compromising the needs of future generations.
+* Three goals that must be considered by executives to advance the environmental sustainability of business firms: 1) pollution prevention, achieved
+through minimization of waste and emissions; 2) product stewardship, addressed by consideration of stakeholder demands and optimization of product lifecycles;
+3) sustainable development, accomplished through a reduction of the organization's environmental footprint and commitment to a long-term sustainability vision.
+* 
+The term Green refers to technologies and processes that are environmentally friendly, i.e., which have a lower negative impact on the natural environment
+than conventional ones. The environmental impact of Green technologies refers to the environmental footprint during their lifecycle while the environmental
+impact of green processes refers to the reduced need for input resources, decreased pollution, and the reuse of materials state that IT and IS are two
+fundamentally different concepts. Information Technology (IT) refers to computer hardware, software, and peripheral equipment Information Systems (IS)
+"is a broad concept that covers the technology components and human activities related to the management and employment process of technology within the
+organization" the concept of IS covers various aspects: it comprises IT (such as physical servers, office computers and network devices) as well as shared
+services (such as databases or storage), business applications (such as ERP systems), IT human resources (such as skills and knowledge), and IS-related
+managerial capabilities for organizational processes and business transformation.
+
+* Green IT practices : 
+** Consideration of environmental criteria when purchasing IT equipment and services.
+** Energy-efficient IT operations in data centers and in office environments.
+** Environmentally-friendly practices referring to the disposal of IT equipment.
+
+* Green IS :
+** Reengineering of business and production processes.
+** Implementation of IS-based environmental management systems (EMS).
+** Innovations for environmental technologies in end user products and services.
+** Tracking of resource demands and emissions of products and services (lifecycle analyses).
+
+* That Green IT refers to the negative first-order environmental impact of information systems (manufacturing, use, and disposal of IT equipment),
+whereas the concept of Green IS comprises as well the positive second-order impacts (greening of business and production processes) and third-order impacts
+(reduced resource consumption, waste, and emissions during the lifecycle of end products and services).
+* The concept of Green IT refers to measures and initiatives which decrease the negative environmental impact of manufacturing, operations, and disposal
+of Information Technology (IT) equipment and infrastructure.
+* The concept of Green IS refers to practices which determine the investment in, deployment, use and management of information systems (IS) in order
+to minimize the negative environmental impacts of IS, business operations, and IS-enabled products and services.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
