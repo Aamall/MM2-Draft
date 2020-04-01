@@ -1,0 +1,60 @@
+:toc:
+:toc: left
+:toc: right
+:toc: preamble
+
+
+
+
+
+= Introduction : 
+Amal ALSAYED <amal.alsayed90@gmail.com>
+
+== La notion de Green IT :
+
+La vie est devenu compliquée de plus en plus. L'anvencement de technologies, L'industrie et les nouvelles demandes dans tous 
+les secteurs dans la vie; Informatique, Médecin, Education, Création, etc.. Les résultats de tout ça ramènent à augmenter la pollution et gaz à effet de
+serre. 
+
+Donc, tous les secteurs qui sont contribué à cette augmentation, essaient de réduire ces impacts sur l'environnement. Le secteur d'Informatique
+est l'un de ces secteurs qui participe à les réduire. Alors, l'importance pour comprendre *la notion de Green IT* de commencer à distinguer la difference 
+coceptes de le *Green IT* ou la *Gestion durable*, *Green Technonlogie de l'Information* et *Green Système d'Information*.
+
+La *Gestion durable* : est un processus qui est duré en long-temps pour optimiser l'économie, l'environnement et la sociale performance en prenant en copmte
+les ressources naturelles. Ce proessus permet de continuer les business activites sans effectuer aux nouvelles générations. [1]
+
+Avant d'illustrer les conceptes de la Technologie de l'Information et le Système d'Information, il faut bien marquer la difference entre eux. 
+La *Technonlogie de l'Information* "Information Technologie" en anglais est fait référence au matériel informatique, aux logiciels et aux
+équipements périphériques Information. Par contre le *Système d'Information* "Information System" en anglais est un concept large qui couvre les composantes
+technologiques et les activités humaines liées au processus de gestion et d'emploi de la technologie au sein de l'organisation". 
+Le concept de SI couvre divers aspects :
+
+** Il comprend les TI (tels que les serveurs physiques, les ordinateurs de bureau et les dispositifs de réseau) ainsi que les services partagés
+(tels que les bases de données ou le stockage).
+** Les applications commerciales (telles que les systèmes ERP).
+** Les ressources humaines en TI (telles que les compétences et les connaissances).
+** Les capacités de gestion liées au SI pour les processus organisationnels et la transformation des activités. [1]
+
+La *Green Technonlogie de l'Information* est les mesures et initiatives qui diminuent l'impact environnemental négatif de la fabrication,
+de l'exploitation et de l'élimination des équipements et infrastructures des technologies de l'information. [1]
+
+De cette concepte, les green IT pratiques :
+
+** Prise en compte de critères environnementaux lors de l'achat de matériel et de services informatiques.
+** Des opérations informatiques à faible consommation d'énergie dans les centres de données et les environnements de bureau.
+** Pratiques respectueuses de l'environnement concernant l'élimination des équipements informatiques.
+
+La *Green Système d'Information* est les pratiques qui déterminent l'investissement, le déploiement, l'utilisation et la gestion des systèmes d'information
+(SI) afin de minimiser les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI. [1]
+
+De cette concept, les caractéristiques de la green SI : 
+
+** Réingénierie des processus d'entreprise et de production.
+** Mise en œuvre de systèmes de gestion de l'environnement (SGE) basés sur les SI.
+** Innovations pour les technologies environnementales dans les produits et services destinés aux utilisateurs finaux.
+** Suivi des demandes de ressources et des émissions de produits et de services (analyses du cycle de vie).
+
+
+
+
+

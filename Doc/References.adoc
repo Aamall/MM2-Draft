@@ -1,0 +1,12 @@
+:toc:
+:toc: left
+:toc: right
+:toc: preamble
+
+
+
+== Références : 
+
+1. Fabian Loeser. Technische Universitaet Berlin. Green IT and Green IS: Definition of Constructs and Overview of Current Practices.
+Cité 67 fois researchgate.net
+https://www.researchgate.net/profile/Fabian_Loeser/publication/267737651_Green_IT_and_Green_IS_Definition_of_Constructs_and_Overview_of_Current_Practices_Completed_Research_Paper/links/5458cd700cf2cf516483bb66.pdf
