@@ -235,7 +235,66 @@ of Information Technology (IT) equipment and infrastructure.
 to minimize the negative environmental impacts of IS, business operations, and IS-enabled products and services.
 
 
+== Durability Challenges in Software Engineering : 
 
+* Serviceability of software can be defined as the conditions in which software is still useful or maintainable.
+Serviceability of software should be durable as to achieve maintainability. Durability in aspect of software is the time period for which 
+software is giving services.
+* software durability is related to software serviceability and it has been pointed out that achieving durability may enhance the
+serviceability of the software. 
+* In software engineering, durability depends on four characteristics : 
+
+** Trustworthiness is a kind of assurance that software will perform as expected.
+** Human trust is defined as a willingness to rely on partner(software) in whom one has confidence.
+** Dependability is an ability to deliver service that can justifiably be trusted.
+** Usability is the degree of software that can be used by particular users to reach quantified results with effectiveness and satisfaction.
+
+* Software durability is a term used to describe the usefulness of service-life of a software such as designing and construction with optimal maintenance.
+* The term may also be used to describe the whole software development life cycle by comparing between the service life of the design and its
+functional undesirability.
+* The durability of software may be expressed as a function of service quality and service life of the development cycle.
+* There are three important service quality thresholds associated with durability:
+
+** The quantified quality, recognized by the software developer or minimum codes.
+** The minimum acceptable quality indicating the need for replacement.
+** Failure.
+
+* The steps which form the process, which is effective in achieving durability when performed iteratively, incrementally,
+and in parallel with the other activities, tasks, and primary objectives:
+
+** To establish durability as a powerful factor of software quality
+** Identification of threat models of durability for degradation mechanisms
+** Develop a durability program plan that includes trustworthiness, human trust, usability and dependability
+** Identify and investigate their potential sources
+** Estimate the risks associated to durability for these respected assets
+** Arrange them based on the degree of the negative impacts
+** Identify and investigate the durable necessities of serviceability an arrangement as a benchmark for quality
+** Identify new attributes to provide a secure service-life of software for a specific duration
+** Identify durability subfactors and determine their impact on overall software
+** Analyze software risks relating to durability
+** Make an objective to lessen the complexity of software design by establishing durability as it optimize the maintainability
+** Enhance quality of software by improving service-oriented design of software
+** Calculate of durability parameters using available or developed calculation models
+** Possible updation of the ordinary architectural design tools for durability
+
+== Sustainability and Quality: icing on the cake :
+
+* Software products mainly affect the environment through resource consumption that occurs during its use and production.
+The most direct (and obvious) impact by a software product is energy consumption, but other resources may also have a negative impact on
+the sustainability of the software. In this sense, the use of the processor, increased needs of memory and disk storage,
+network utilization and bandwidth, potential relocation of software production and use, among others, are elements to take into account.
+* Sustainable software development refers to a mode of software development in which resource use aims to meet product software needs
+while ensuring the sustainability of natural systems and the environment.
+* T HE R ESOURCES : energy consumption, software performance
+depends on the basic computing resources like the CPU and the memory. To evaluate the software products sustainability in terms of
+memory requirements and processor time. Other resources that appear in literature are network bandwidth and wireless technology. A few studies
+evaluated the use of other types of resources that appear as a result of software product utilization: paper wastage, ink and toner costs, etc.
+* the sustainability of a software product as the capacity of developing a software product in a sustainable manner.
+* Software requirements can be classified into functional and non-functional requirements.
+* the functional requirements are related  to  the  “What”  of  a  software  product.
+* that non-functional quality requirements can be seen  as  the  “How”  of  a  software  product.
+* So, based on the definitions of functional and non-functional requirements we believe that software sustainabilityis related to non-functional requirements.
+* 
 
 
 
