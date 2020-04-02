@@ -10,15 +10,18 @@
 = Introduction : 
 Amal ALSAYED <amal.alsayed90@gmail.com>
 
-== La notion de Green IT :
+== La notion de la Durabilité:
 
-La vie est devenu compliquée de plus en plus. L'anvencement de technologies, L'industrie et les nouvelles demandes dans tous 
-les secteurs dans la vie; Informatique, Médecin, Education, Création, etc.. Les résultats de tout ça ramènent à augmenter la pollution et gaz à effet de
-serre. 
+L'un des plus sujets courants dans ces nos jours est comment peut-on préservation de l'environnement ? et comment peut-on réduire la pollution, le gaz
+à effet de serre et l'augmentation de la pourcentage du dioxyde de cabone dans l'air ?
 
-Donc, tous les secteurs qui sont contribué à cette augmentation, essaient de réduire ces impacts sur l'environnement. Le secteur d'Informatique
-est l'un de ces secteurs qui participe à les réduire. Alors, l'importance pour comprendre *la notion de Green IT* de commencer à distinguer la difference 
-coceptes de le *Green IT* ou la *Gestion durable*, *Green Technonlogie de l'Information* et *Green Système d'Information*.
+Dans ce context, il est apparu le concept de la *Durabilité* parmi beaucoup des efforts qui sont faits. Dans les dernières années, on a remarqué que ce
+concept soit appliqué dans plusieurs domaines comme l'immobilier et les équipements électroménagers. 
+
+Evidemment, parmi ces domaines, il y a le domaine d'Informatique qui essaie en son tour de réduire ses négatives impacts sur l'environnement.
+
+Alors, pour comprendre mieux *la notion de la durabilité*, on commence à distinguer les differences coceptes de le *Green IT* ou la *Gestion durable*,
+*Green Technonlogie de l'Information* et *Green Système d'Information*.
 
 La *Gestion durable* : est un processus qui est duré en long-temps pour optimiser l'économie, l'environnement et la sociale performance en prenant en copmte
 les ressources naturelles. Ce proessus permet de continuer les business activites sans effectuer aux nouvelles générations. [1]
