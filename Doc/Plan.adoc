@@ -1,0 +1,20 @@
+= Plan 
+
+== Introduction
+== Chapitre I 
+* La notion de la durabilité. 
+* Comment le GreenIT marche ? 
+* Autres sources relative à la durabilité : normes dans l'immobilier et les equipements electroménagers.
+* Définition à construire : qu'est-ce qu'un logiciel durable? 
+* Analyse de la littérateur sur l'obsolescence programmée.
+
+== Chapitre II 
+* Définition des différents familles de Logiciels. 
+* Définition : Client lourd, Client léger. 
+* De l'importance du couplage entre Software et Hardware dans l'analyse.
+
+== Chapitre III
+* Mon choix d'analyse parmi les différentes familles de Logiciels (SmartPhone)
+* Si le hardware impacte plus sur l'environnemement que le software alors la matric de durabilité *pourrait* répondre à la question :*Est-ce que le logiciel
+et son cycle de vie fait vieillir que les Matériels (plus ou moins rapidement) ?*. 
+

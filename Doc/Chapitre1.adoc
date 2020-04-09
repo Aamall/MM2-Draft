@@ -1,0 +1,120 @@
+:toc:
+:toc: left
+:toclevels: 3
+
+
+= Chapitre I : Principes et pratiques de Green IT 
+Amal ALSAYED 
+
+== La notion de la Durabilité
+
+L'un des sujets les plus courants de nos jours est de savoir comment préserver l'environnement ? et comment réduire la pollution, la pollution par le gaz
+à effet de serre ? et l'augmentation du pourcentage de dioxyde de carbone dans l'air ?
+
+Dans ce contexte, le concept de *Durabilité* est apparu parmi les nombreux efforts déployés. Ces dernières années, on a constaté que cette soit appliquée
+dans plusieurs domaines tels que l'immobilier et l'électroménager. 
+
+Bien sûr, parmi ces domaines, il y a celui des technologies de l'information, qui à son tour essaie de réduire son impact négatif sur l'environnement.
+
+Ainsi, afin de mieux comprendre la *notion de durabilité*, nous commençons à distinguer les différents concepts de *Green IT* ou de *Gestion durable*,
+*Technologies de l'Information Green* et *Systèmes d'Information Green*.
+
+La *Gestion durable* : est un processus de longue durée visant à optimiser les performances économiques, environnementales et sociales en tirant parti des
+ressources naturelles. Ce processus permet de poursuivre les activités de l'entreprise sans faire appel aux nouvelles générations. [1]
+
+Avant d'illustrer les concepts de *Technologie de l'Information* et de *Système d'Information*, il est nécessaire de faire une distinction claire entre eux.
+La *Technologie de l'Information* fait référence au matériel informatique, aux logiciels et aux équipements périphériques d'information.
+*Le Système d'Information* est un concept large qui couvre les composantes technologiques et les activités humaines liées au processus de gestion et
+d'utilisation de la technologie au sein de l'organisation. [1]
+
+Le concept de SI couvre différents aspects :
+
+** Elle comprend les TI (tels que les serveurs physiques, les ordinateurs de bureau et les dispositifs de réseau) ainsi que les services partagés.
+(tels que les bases de données ou le stockage).
+** Les applications commerciales (telles que les systèmes ERP).
+** Les ressources humaines en TI (telles que les compétences et les connaissances).
+** Capacités de gestion liées aux SI pour les processus organisationnels et la transformation des activités. [1]
+
+Les *Technologies de l'Information Green* sont des mesures et des initiatives qui réduisent l'impact négatif de la fabrication sur l'environnement,
+l'exploitation et l'élimination des équipements et des infrastructures informatiques. [1]
+
+De ce concept, le Green IT pratique : [1]
+
+** Prise en compte de critères environnementaux lors de l'achat de matériel et de services informatiques.
+** Exploitation informatique économe en énergie dans les centres de données et les environnements de bureau.
+** Pratiques respectueuses de l'environnement en ce qui concerne l'élimination des équipements informatiques. 
+
+Les *Systèmes d'Information Green* sont les pratiques qui déterminent l'investissement, le déploiement, l'utilisation et la gestion des systèmes
+d'information (SI) afin de minimiser les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI. [1]
+
+A partir de ce concept, les caractéristiques de l'IS green : [1]
+
+** Réingénierie des processus d'entreprise et de production.
+** Mise en œuvre de systèmes de gestion de l'environnement (SGE) basés sur les SI.
+** Innovations en matière de technologies environnementales dans les produits et services destinés aux utilisateurs finaux.
+** Surveillance de la demande en ressources et des émissions des produits et services (analyses du cycle de vie).
+
+
+== Mettre en œuvre une politique Green IT
+
+Une bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent.
+Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures,
+produits, services, opérations, applications et pratiques informatiques respectueux de l'environnement.
+
+L'impact le plus important sur l'environnement est l'électricité. En effet, le charbon ou le pétrole qui contribue à la production d'électricité libère
+également du dioxyde de carbone, des polluants et du soufre dans l'atmosphère. La réduction de la consommation d'énergie électrique est essentielle pour
+diminuer les émissions de dioxyde de carbone et leur impact sur notre environnement et le réchauffement climatique. [2]
+
+Comme indiqué ci-dessus, nous nous intéressons aux technologies de l'information. En effet, la technologie de l'information affectent notre environnement 
+de plusieurs manières différentes. Chaque étape de la vie d'un ordinateur, de sa production à son élimination, en passant par son utilisation, pose des
+problèmes environnementaux. Chaque PC utilisé génère environ une tonne de dioxyde de carbone chaque année. [2]
+
+Le Green IT est l'étude et la pratique de la conception, de la fabrication, de l'utilisation et de l'élimination des ordinateurs, des serveurs et des
+sous-systèmes associés d'une manière efficace et efficiente avec un impact minimal ou nul sur l'environnement. Le Green IT s'efforce également d'atteindre
+la viabilité économique et d'améliorer les performances et l'utilisation des systèmes, tout en respectant nos responsabilités sociales et éthiques. [2]
+
+Elle nous conduit donc à appliquer une approche globale pour réduire les impacts environnementaux. Nous devons adopter une approche holistique qui aborde
+les problèmes de quatre manières complémentaires : [2]
+
+* Green utilisation : réduire la consommation d'énergie des ordinateurs et autres systèmes d'information et les utiliser de manière écologique.
+* Le Green élimination : remettre à neuf et réutiliser les vieux ordinateurs et recycler correctement les ordinateurs et autres équipements électroniques
+non désirés.
+* Green conception : concevoir des composants, des ordinateurs, des serveurs et des équipements de refroidissement efficaces sur le plan énergétique et
+respectueux de l'environnement.
+* Green fabrication : fabriquer des composants électroniques, des ordinateurs et d'autres sous-systèmes associés avec un impact minimal ou nul sur
+l'environnement.
+
+Un objectif Green IT essentiel dans l'utilisation des systèmes informatiques et des centres de données opérationnels est de réduire leur consommation 
+'énergie, minimisant ainsi les émissions de gaz à effet de serre. Il existe quelques pratiques : [2]
+
+* Réduire la consommation d'énergie des PC.
+* Activation des fonctions de gestion de l'énergie.
+* Éteindre le système lorsqu'il n'est pas utilisé.
+* Utiliser des économiseurs d'écran.
+* Utilisation d'ordinateurs clients légers.
+* Conservation de l'énergie.
+* Conception écologique. 
+* Virtualisation.
+
+Il est important de noter que les Green IT couvrent un certain nombre de domaines et d'activités prioritaires : [2]
+
+* Conception pour un environnement durable.
+* L'informatique économe en énergie.
+* Gestion de l'énergie.
+* Disposition et emplacement des centres de données.
+* Virtualisation des serveurs.
+* Élimination et recyclage responsables.
+* Conformité à la réglementation.
+* Outils et méthodologie d'évaluation des mesures écologiques.
+* Atténuation des risques liés à l'environnement.
+* Utilisation de sources d'énergie renouvelables et éco-labellisation des produits informatiques.
+
+
+
+
+
+
+
+
+
+

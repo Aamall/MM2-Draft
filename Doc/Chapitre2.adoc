@@ -1,0 +1,30 @@
+:toc:
+:toc: left
+:toclevels: 3
+
+
+
+= Chapitr II : 
+Amal ALSAYED
+
+== L'obsolescence programmée
+
+Les définitions et travaux sur l’obsolescence évoluent selon l’angle d’approche : [3]
+
+* *Obsolescence du point de vue du produit* : baisse délibérée de la durée de vie d’un produit par le fabricant-obsolescence planifiée.
+* *Obsolescence du point de vue de l’usage* : raisons pour lesquelles l’usager se sépare d’un produit. Elle diffèrent également selon le type de fin de vie
+du produit.
+* *Obsolescence absolue* (fin de vie technique du produit). 
+* *Obsolescence relative* (finde vie prématurée du produit). 
+
+Selon [3], il existe trois types de raisons invoquées pour expliquer le remplacement : 
+
+* L’obsolescence économique.
+* L’obsolescence technologique.
+* L’obsolescence psychologique associée aux tendances de la mode.
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+:toc:
+:toc: left
+:toclevels: 3
+
+
+= Chapitr VI : La matrice de durabilité (Mon choix d'analyse parmi les différentes familles de Logiciels (SmartPhone))
+Amal ALSAYED

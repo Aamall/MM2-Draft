@@ -1,0 +1,47 @@
+:toc:
+:toc: left
+:toclevels: 3
+:imagesdir: ./images 
+
+
+= Chapitr III : Les Familles de Logiciels  
+Amal ALSAYED
+
+Ce chapitre illustre les différents types de logiciels liés aux types de matériel utilisés (ordinateur, SmartPhone, serveur et centre de données). 
+
+Avant de commencer à présenter les types de logiciels, veuillez noter la différence entre *Software*, *Program* et *Application*. 
+
+Le *Logiciel* : applique une ou plusieurs opérations pour transformer les données d'un état A à un état B.
+Un logiciel traite donc les données par une ou plusieurs séquences d'opérations. 
+
+Le *Programme* : est une séquence d'opérations. 
+A partir de cette définition, on remarque qu'un *logiciel* est la compilation d'un ensemble de *programmes*.
+
+La *Application* : est la mise à disposition de fonctionnalités pour un usage précis et identifié. 
+
+ 
+.Les Matériels
+[caption="Figure 1: "]
+image::Les-Materiels.jpg[Les Materiels]
+
+.PlateFormes Ordinateurs
+[caption="Figure 2: "]
+image::Plate-Formes-Ordinateur.jpg[PlateFormes Ordinateurs]
+
+.PlateFormes SmartPhone
+[caption="Figure 3: "]
+image::Plate-Formes-Smart-Phone.jpg[PlateFormes SmartPhone]
+
+.Systèmes Logiciels
+[caption="Figure 4: "]
+image::Systemes-Logiciels.jpg[Systèmes Logiciels]
+
+.Logiciels Informatiques
+[caption="Figure 5: "]
+image::Logiciels-Informatiques.jpg[Logiciels Informatiques]
+
+.Logiciels d'Application
+[caption="Figure 6: "]
+image::Logiciels-de-Application.jpg[Logiciels d'Application]
+
+
