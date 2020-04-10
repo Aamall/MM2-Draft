@@ -46,9 +46,9 @@ image::Logiciels-de-Application.jpg[Logiciels d'Application]
 == La famille de logiciels sur un SmartPhone
 
 Système d’exploitation mobile est conçu pour fonctionner sur un smartphone, une tablette ou tout autre dispositif mobile. Aujourd’hui, les trois systèmes
-les plus importants sont Android, iOS et Windows Phone. 
+les plus importants sont Android, iOS et Windows Phone. [5]
 
-* Le système d'exploitation *Android* : 
+* Le système d'exploitation *Android* : [5]
 
 Le système d’exploitation d’Android fonctionne sur plusieurs appareils tels que les smartphones, tablettes, montres, téléviseurs et voitures.
 
@@ -66,7 +66,7 @@ fonctionnalités du dispositif.
 Les applications écrites en Java sont exécutées dans une machine virtuelle. Cependant, au lieu d’utiliser une JVM, Android utilise sa propre machine
 virtuelle (Dalvik Machine, ART).
 
-* Le système d'exploitation *IOS* : 
+* Le système d'exploitation *IOS* : [5]
 
 iOS est le système d’exploitation mobile développé par Apple et fonctionnant uniquement sur du matériel Apple.
 
@@ -78,7 +78,7 @@ L’architecture d’iOS est composée de 4 couches différentes :
 * *Cocoa Touch* : cette couche définit les bases de l’application. Elle contient de nombreuses fonctionnalités comme la gestion des vues, la reconnaissance
 des gestes, le multitâche, les notifications.
 
-* Le système d'exploitation *Windows* :
+* Le système d'exploitation *Windows* : [5]
 
 L’architecture d’une application Windows est composée de 4 couches :
 
