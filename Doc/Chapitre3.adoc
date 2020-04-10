@@ -24,24 +24,78 @@ La *Application* : est la mise à disposition de fonctionnalités pour un usage 
 [caption="Figure 1: "]
 image::Les-Materiels.jpg[Les Materiels]
 
+== La famille de logiciels sur un desktop
+
 .PlateFormes Ordinateurs
 [caption="Figure 2: "]
 image::Plate-Formes-Ordinateur.jpg[PlateFormes Ordinateurs]
 
-.PlateFormes SmartPhone
-[caption="Figure 3: "]
-image::Plate-Formes-Smart-Phone.jpg[PlateFormes SmartPhone]
-
 .Systèmes Logiciels
-[caption="Figure 4: "]
+[caption="Figure 3: "]
 image::Systemes-Logiciels.jpg[Systèmes Logiciels]
 
 .Logiciels Informatiques
-[caption="Figure 5: "]
+[caption="Figure 4: "]
 image::Logiciels-Informatiques.jpg[Logiciels Informatiques]
 
 .Logiciels d'Application
-[caption="Figure 6: "]
+[caption="Figure 5: "]
 image::Logiciels-de-Application.jpg[Logiciels d'Application]
 
 
+== La famille de logiciels sur un SmartPhone
+
+Système d’exploitation mobile est conçu pour fonctionner sur un smartphone, une tablette ou tout autre dispositif mobile. Aujourd’hui, les trois systèmes
+les plus importants sont Android, iOS et Windows Phone. 
+
+* Le système d'exploitation *Android* : 
+
+Le système d’exploitation d’Android fonctionne sur plusieurs appareils tels que les smartphones, tablettes, montres, téléviseurs et voitures.
+
+L’architecture d’Android est composée de plusieurs couches : 
+
+* *Linux Kernel* : le kernel est basé sur Linux. Il permet de faire le lien entre la partie hardware et le logiciel. Il contient les différents drivers de
+la partie matérielle.
+* *Libraries* : la couche suivante contient plusieurs librairies telles que SQLite, SSL,OpenGL...
+* *Android Runtime* : la couche Android Runtime contient des librairies qui permettent aux développeurs d’utiliser un sous-ensemble des libraires Java
+ainsi qu’une machine virtuelle.
+* *Applications Framework* : les applications Android interagissent avec la couche application Framework. Cette couche permet d’accéder au travers d’API aux
+fonctionnalités du dispositif.
+* *Application* : toutes les applications installées se trouvent dans cette couche.
+
+Les applications écrites en Java sont exécutées dans une machine virtuelle. Cependant, au lieu d’utiliser une JVM, Android utilise sa propre machine
+virtuelle (Dalvik Machine, ART).
+
+* Le système d'exploitation *IOS* : 
+
+iOS est le système d’exploitation mobile développé par Apple et fonctionnant uniquement sur du matériel Apple.
+
+L’architecture d’iOS est composée de 4 couches différentes : 
+
+* *Core OS* : cette couche est responsable du système d’exploitation. Elle est en charge de la gestion de la mémoire ainsi que l’accès au matériel du dispositif.
+* *Core Services* : elle contient les API qui permettent aux applications d’accéder à différents services tels que le réseau, les contacts, la base de données.
+* *Media* : la couche média permet d’implémenter des fonctionnalités audio, vidéo et graphiques.
+* *Cocoa Touch* : cette couche définit les bases de l’application. Elle contient de nombreuses fonctionnalités comme la gestion des vues, la reconnaissance
+des gestes, le multitâche, les notifications.
+
+* Le système d'exploitation *Windows* :
+
+L’architecture d’une application Windows est composée de 4 couches :
+
+* *Core* : la couche la plus basse dans la hiérarchie, c’est le kernel qui permet de gérer le matériel du dispositif.
+* *System Services* : au-dessus, la couche contient les API qui permettent d’accéder aux fonctionnalités des appareils.
+* *Model Controller* : la couche suivante contient le code qui sera exécuté.
+* *View* : la dernière couche contient les vues avec lesquelles les utilisateurs vont interagir.
+
+
+.PlateFormes SmartPhone
+[caption="Figure 6: "]
+image::Plate-Formes-Smart-Phone.jpg[PlateFormes SmartPhone]
+
+.Applications Mobile
+[caption="Figure 7: "]
+image::Application-Mobile.jpg[Applications Mobile]
+
+
+== La famille de logiciels sur une centre de données
+== La famille de logiciels sur un serveur

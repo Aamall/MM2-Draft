@@ -7,6 +7,15 @@
 = Chapitr II : 
 Amal ALSAYED
 
+== Définitions : 
+
+* Client Léger (Thin Client en anglais) : est une interface utilisateur qui sert principalement à afficher des informations et à répondre aux interactions de
+l'utilisateur. Peu ou pas de logique applicative réside sur le client (à part la vérification de base des entrées), la plupart du travail est effectué sur
+un serveur central. [4]
+
+* Client Lourd (Fat Client en anglais) : est une application client qui intègre une logique commerciale. Le traitement est donc décentralisé - le serveur
+n'est responsable que de parties rudimentaires de la logique et sert principalement à stocker les données. [4]
+
 == L'obsolescence programmée
 
 Les définitions et travaux sur l’obsolescence évoluent selon l’angle d’approche : [3]

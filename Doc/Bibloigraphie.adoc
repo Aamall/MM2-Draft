@@ -16,6 +16,15 @@ https://www.pitt.edu/~dtipper/2011/GreenPaper.pdf
 proposition d’une échelle de mesure. Cité 7 fois afm-marketing.org.
 https://www.afm-marketing.org/fr/system/files/publications/20160517094331_DURIF_KREZIAK_PRIM_ALLAZ_ROBINOT.pdf
 
+4. Viktor C. Pavlu. 2003 – 2004. Thin-Client/Fat-Client Comparison. UNIVERSITY OF DERBY Derbyshire Business School. 
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.6689&rep=rep1&type=pdf 
+
+5. Luca FALVO. 2016. Haute École de Gestion de Genève (HEG-GE). Développements Natif, Xamarin, Hybride ou Web : Critères de choix et arbre de décision pour
+un développement mobile. 
+https://doc.rero.ch/record/278092/files/TDIG_Falvo_Luca.pdf
+
+
+
 
 
 
