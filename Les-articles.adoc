@@ -294,7 +294,23 @@ evaluated the use of other types of resources that appear as a result of softwar
 * the functional requirements are related  to  the  “What”  of  a  software  product.
 * that non-functional quality requirements can be seen  as  the  “How”  of  a  software  product.
 * So, based on the definitions of functional and non-functional requirements we believe that software sustainabilityis related to non-functional requirements.
-* 
+
+
+== Circulaire du 3 décembre 2008 relative à l'exemplarité de l'Etat au regard du développement durable dans le fonctionnement de ses services et de ses
+établissements publics.
+https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020243534#JORFARTI000020243537
+* Comment mettre en œuvre une politique Green IT ? greenit.fr 
+https://www.greenit.fr/2009/11/27/comment-mettre-en-oeuvre-une-politique-green-it/
+
+== Product Environmental Report 27-inch iMac with Retina 5K display 
+Cet ordi nécessite 1 tonne de Co2 pour être produit. 
+https://www.apple.com/environment/pdf/products/desktops/27-inch_iMac_with_Retina5KDisplay_PER_Mar2019.pdf 
+
+== Pour une low-tech numérique 
+https://www.greenit.fr/2019/09/24/%ef%bb%bfpour-une-low-tech-numerique/ 
+* Plus les années passent et plus il apparaît évident que la low-tech est la seule voie possible pour construire la base de notre avenir numérique.
+* l’intérêt de cette notion de low-tech numérique est surtout de structurer notre réflexion lorsque nous concevons les produits et les services numériques
+de demain.
 
 
 
