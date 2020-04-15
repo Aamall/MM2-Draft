@@ -3,6 +3,8 @@
 :imagesdir: ./images 
 
 
+
+<<<
 = Chapitre I : Principes et Définitions 
 Amal ALSAYED 
 
@@ -20,12 +22,12 @@ Ainsi, afin de mieux comprendre la *notion de durabilité*, nous commençons à 
 *Technologies de l'Information Green* et *Systèmes d'Information Green*.
 
 La *Gestion durable* : est un processus de longue durée visant à optimiser les performances économiques, environnementales et sociales en tirant parti des
-ressources naturelles. Ce processus permet de poursuivre les activités de l'entreprise sans faire appel aux nouvelles générations. [1]
+ressources naturelles. Ce processus permet de poursuivre les activités de l'entreprise sans faire appel aux nouvelles générations. <<A>>
 
 Avant d'illustrer les concepts de *Technologie de l'Information* et de *Système d'Information*, il est nécessaire de faire une distinction claire entre eux.
 La *Technologie de l'Information* fait référence au matériel informatique, aux logiciels et aux équipements périphériques d'information.
 *Le Système d'Information* est un concept large qui couvre les composantes technologiques et les activités humaines liées au processus de gestion et
-d'utilisation de la technologie au sein de l'organisation. [1]
+d'utilisation de la technologie au sein de l'organisation. <<A>>
 
 Le concept de SI couvre différents aspects :
 
@@ -33,21 +35,21 @@ Le concept de SI couvre différents aspects :
 (tels que les bases de données ou le stockage).
 ** Les applications commerciales (telles que les systèmes ERP).
 ** Les ressources humaines en TI (telles que les compétences et les connaissances).
-** Capacités de gestion liées aux SI pour les processus organisationnels et la transformation des activités. [1]
+** Capacités de gestion liées aux SI pour les processus organisationnels et la transformation des activités. <<A>>
 
 Les *Technologies de l'Information Green* sont des mesures et des initiatives qui réduisent l'impact négatif de la fabrication sur l'environnement,
-l'exploitation et l'élimination des équipements et des infrastructures informatiques. [1]
+l'exploitation et l'élimination des équipements et des infrastructures informatiques. <<A>>
 
-De ce concept, le Green IT pratique : [1]
+De ce concept, le Green IT pratique : <<A>>
 
 ** Prise en compte de critères environnementaux lors de l'achat de matériel et de services informatiques.
 ** Exploitation informatique économe en énergie dans les centres de données et les environnements de bureau.
 ** Pratiques respectueuses de l'environnement en ce qui concerne l'élimination des équipements informatiques. 
 
 Les *Systèmes d'Information Green* sont les pratiques qui déterminent l'investissement, le déploiement, l'utilisation et la gestion des systèmes
-d'information (SI) afin de minimiser les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI. [1]
+d'information (SI) afin de minimiser les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI. <<A>>
 
-A partir de ce concept, les caractéristiques de l'IS green : [1]
+A partir de ce concept, les caractéristiques de l'IS green : <<A>>
 
 ** Réingénierie des processus d'entreprise et de production.
 ** Mise en œuvre de systèmes de gestion de l'environnement (SGE) basés sur les SI.
@@ -63,18 +65,18 @@ produits, services, opérations, applications et pratiques informatiques respect
 
 L'impact le plus important sur l'environnement est l'électricité. En effet, le charbon ou le pétrole qui contribue à la production d'électricité libère
 également du dioxyde de carbone, des polluants et du soufre dans l'atmosphère. La réduction de la consommation d'énergie électrique est essentielle pour
-diminuer les émissions de dioxyde de carbone et leur impact sur notre environnement et le réchauffement climatique. [2]
+diminuer les émissions de dioxyde de carbone et leur impact sur notre environnement et le réchauffement climatique. <<B>>
 
 Comme indiqué ci-dessus, nous nous intéressons aux technologies de l'information. En effet, la technologie de l'information affectent notre environnement 
 de plusieurs manières différentes. Chaque étape de la vie d'un ordinateur, de sa production à son élimination, en passant par son utilisation, pose des
-problèmes environnementaux. Chaque PC utilisé génère environ une tonne de dioxyde de carbone chaque année. [2]
+problèmes environnementaux. Chaque PC utilisé génère environ une tonne de dioxyde de carbone chaque année. <<B>>
 
 Le Green IT est l'étude et la pratique de la conception, de la fabrication, de l'utilisation et de l'élimination des ordinateurs, des serveurs et des
 sous-systèmes associés d'une manière efficace et efficiente avec un impact minimal ou nul sur l'environnement. Le Green IT s'efforce également d'atteindre
-la viabilité économique et d'améliorer les performances et l'utilisation des systèmes, tout en respectant nos responsabilités sociales et éthiques. [2]
+la viabilité économique et d'améliorer les performances et l'utilisation des systèmes, tout en respectant nos responsabilités sociales et éthiques. <<B>>
 
 Elle nous conduit donc à appliquer une approche globale pour réduire les impacts environnementaux. Nous devons adopter une approche holistique qui aborde
-les problèmes de quatre manières complémentaires : [2]
+les problèmes de quatre manières complémentaires : <<B>>
 
 * Green utilisation : réduire la consommation d'énergie des ordinateurs et autres systèmes d'information et les utiliser de manière écologique.
 * Le Green élimination : remettre à neuf et réutiliser les vieux ordinateurs et recycler correctement les ordinateurs et autres équipements électroniques
@@ -85,7 +87,7 @@ respectueux de l'environnement.
 l'environnement.
 
 Un objectif Green IT essentiel dans l'utilisation des systèmes informatiques et des centres de données opérationnels est de réduire leur consommation 
-'énergie, minimisant ainsi les émissions de gaz à effet de serre. Il existe quelques pratiques : [2]
+'énergie, minimisant ainsi les émissions de gaz à effet de serre. Il existe quelques pratiques : <<B>>
 
 * Réduire la consommation d'énergie des PC.
 * Activation des fonctions de gestion de l'énergie.
@@ -96,7 +98,7 @@ Un objectif Green IT essentiel dans l'utilisation des systèmes informatiques et
 * Conception écologique. 
 * Virtualisation.
 
-Il est important de noter que les Green IT couvrent un certain nombre de domaines et d'activités prioritaires : [2]
+Il est important de noter que les Green IT couvrent un certain nombre de domaines et d'activités prioritaires : <<B>>
 
 * Conception pour un environnement durable.
 * L'informatique économe en énergie.
@@ -109,9 +111,10 @@ Il est important de noter que les Green IT couvrent un certain nombre de domaine
 * Atténuation des risques liés à l'environnement.
 * Utilisation de sources d'énergie renouvelables et éco-labellisation des produits informatiques.
 
+
 == La notion de l'Obsolescence Programmée
 
-Les définitions et travaux sur l’obsolescence évoluent selon l’angle d’approche : [3]
+Les définitions et travaux sur l’obsolescence évoluent selon l’angle d’approche : <<C>>
 
 * *Obsolescence du point de vue du produit* : baisse délibérée de la durée de vie d’un produit par le fabricant-obsolescence planifiée.
 * *Obsolescence du point de vue de l’usage* : raisons pour lesquelles l’usager se sépare d’un produit. Elle diffèrent également selon le type de fin de vie
@@ -119,11 +122,12 @@ du produit.
 * *Obsolescence absolue* (fin de vie technique du produit). 
 * *Obsolescence relative* (finde vie prématurée du produit). 
 
-Selon [3], il existe trois types de raisons invoquées pour expliquer le remplacement : 
+Selon <<C>>, il existe trois types de raisons invoquées pour expliquer le remplacement : 
 
 * L’obsolescence économique.
 * L’obsolescence technologique.
 * L’obsolescence psychologique associée aux tendances de la mode.
+
 
 == La notion de la famille de logiciels 
 
@@ -142,10 +146,10 @@ La *Application* : est la mise à disposition de fonctionnalités pour un usage 
 
 * Client Léger (Thin Client en anglais) : est une interface utilisateur qui sert principalement à afficher des informations et à répondre aux interactions de
 l'utilisateur. Peu ou pas de logique applicative réside sur le client (à part la vérification de base des entrées), la plupart du travail est effectué sur
-un serveur central. [4]
+un serveur central. <<D>>
 
 * Client Lourd (Fat Client en anglais) : est une application client qui intègre une logique commerciale. Le traitement est donc décentralisé - le serveur
-n'est responsable que de parties rudimentaires de la logique et sert principalement à stocker les données. [4]
+n'est responsable que de parties rudimentaires de la logique et sert principalement à stocker les données. <<D>>
 
  
 .Les Matériels
@@ -174,9 +178,9 @@ image::Logiciels-de-Application.jpg[Logiciels d'Application]
 === La famille de logiciels sur un SmartPhone
 
 Système d’exploitation mobile est conçu pour fonctionner sur un smartphone, une tablette ou tout autre dispositif mobile. Aujourd’hui, les trois systèmes
-les plus importants sont Android, iOS et Windows Phone. [5]
+les plus importants sont Android, iOS et Windows Phone. <<E>>
 
-* Le système d'exploitation *Android* : [5]
+* Le système d'exploitation *Android* : <<E>>
 
 Le système d’exploitation d’Android fonctionne sur plusieurs appareils tels que les smartphones, tablettes, montres, téléviseurs et voitures.
 
@@ -194,7 +198,7 @@ fonctionnalités du dispositif.
 Les applications écrites en Java sont exécutées dans une machine virtuelle. Cependant, au lieu d’utiliser une JVM, Android utilise sa propre machine
 virtuelle (Dalvik Machine, ART).
 
-* Le système d'exploitation *IOS* : [5]
+* Le système d'exploitation *IOS* : <<E>>
 
 iOS est le système d’exploitation mobile développé par Apple et fonctionnant uniquement sur du matériel Apple.
 
@@ -206,7 +210,7 @@ L’architecture d’iOS est composée de 4 couches différentes :
 * *Cocoa Touch* : cette couche définit les bases de l’application. Elle contient de nombreuses fonctionnalités comme la gestion des vues, la reconnaissance
 des gestes, le multitâche, les notifications.
 
-* Le système d'exploitation *Windows* : [5]
+* Le système d'exploitation *Windows* : <<E>>
 
 L’architecture d’une application Windows est composée de 4 couches :
 
@@ -230,13 +234,57 @@ image::Application-Mobile.jpg[Applications Mobile]
 === La famille de logiciels sur un serveur
 
 
-
 == L'empreinte environnementale de matériels informatiques
 
+Il existe de nombreux types de matériel informatique, tels que : ordinateurs, smartphones, imprimantes, consoles de jeux vidéo, téléviseurs connectés à un
+boîtier, objets connectés, etc. Chaque type a une empreinte écologique.
 
+Bien sûr, il existe plusieurs études qui clarifient l'empreinte écologique. L'étude *Empreinte environnementale du numérique mondial* <<F>> que l'équipe de
+GreenIT.fr a publié, se concentre sur la quantification de l'empreinte environnementale numérique globale et son évolution entre 2010 et 2025.
 
+Cette étude porte sur l’ensemble des équipements électroniques qui manipulent des données binaires, à l’échelle planétaire.
+Elle repose sur une méthodologie d’analyse de cycle de vie (ACV) et s’appuie sur 3 modèles de quantification d’impacts environnementaux
+(utilisateurs, réseaux, centres informatiques) agrégés par un méta modèle.
 
+Quatre indicateurs environnementaux ont été retenus :
 
+* Épuisement des ressources abiotiques (ADP)
+* Réchauffement global (GES)
+* Bilan énergétique (EP)
+* Tension sur l’eau douce (Eau)
 
+Pour chaque indicateur, l'étude a montré les impacts par rapport aux trois modèles (utilisateurs, réseaux, centres de données).
 
+L'étude a montré : 
 
+ "L’empreinte environnementale du numérique mondial est de l’ordre de :
+ * 6 800 TWh d’énergie primaire (EP).
+ * 1 400 millions de tonnes de gaz à effet de serre (GES).
+ * 7,8 millions de m3 d’eau douce (Eau).
+ * 22 millions de tonnes d’antimoine (ADP)."
+
+ "Indicateurs techniques et de flux :
+ * 223 millions de tonnes (masse), soit 179 millions de voitures de 1,3 tonne !
+ * 1 300 TWh d’électricité consommée."
+
+ "Les équipements des utilisateurs sont la principale source d’impacts du numérique mondial. Leur fabrication concentre systématiquement le plus d’impacts
+ avec 30% du bilan énergétique global, 39 % des émissions de GES, 74 % de la consommation d’eau et 76 % de la contribution à l’épuisement des ressources abiotiques.
+ Si on y ajoute les impacts associés à la production de l’électricité qu’ils consomment, les équipements utilisateurs (hors box DSL / fibre) totalisent
+ de 59 % à 84 % des impacts !
+
+ En 2019, la hiérarchie des sources d’impacts est la suivante, par ordre décroissant d'importance :
+ . Fabrication des équipements utilisateurs.
+ . Consommation électrique des équipements utilisateurs.
+ . Consommation électrique du réseau.
+ . Consommation électrique des centres informatiques.
+ . Fabrication des équipements réseau.
+ . Fabrication des équipements hébergés par les centres informatiques (serveurs, etc.).
+
+ Alors que l’informatique – ordinateurs et dispositifs d’affichage associés concentrait de 33 % à 40 % du total des impacts du numérique en 2010, un
+ basculement s’opère depuis 2015, qui se renforce nettement en 2019, avec principalement 3 nouvelles sources d’impacts :
+ . Les télévisions : 9 à 23 % des impacts.
+ . Les smartphones : 6 à 19 % des impacts.
+ . Les objets connectés : 10 à 14 % des impacts."
+
+ "Tous les matériels vont augmenter leurs impactes multiplier de 2 à 3 fois à 2025, mais les objets connectés vont avoir le plus impacte multiplier 5 fois à
+ 2025, La croissance exponentielle du nombre d’objets connectés (de 1 milliard en 2010 à 48 milliards en 2025)."
