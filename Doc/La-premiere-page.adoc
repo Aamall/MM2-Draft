@@ -1,35 +1,48 @@
 :toc:
 :toc: left
+:imagesdir: ./images 
+
+
 
 [.text-center]
 [.lead]
-Université Panthéon Sorbonne Paris 1 
+[big blue]#Université Panthéon Sorbonne Paris 1#
+
+[.text-center] 
+[navy]#Master M2 S2I#
+
 
 
 [.text-center] 
-Master M2 S2I : Mémoire de fin d’année
+[big navy]#Maître de Stage : Boris DOLLEY#
 
-
-
-[.text-left] 
-Maître de Stage : Boris DOLLEY
-
-[.text-left] 
-Tutrice universitaire : Rebecca Deneckere
+[.text-center] 
+[big navy]#Tutrice universitaire : Rebecca Deneckere#
 
 [.text-center] 
 [.lead]
-_Mémoire Master M2 S2I_
+[navy]#_Mémoire Master M2 S2I_#
 
 [.text-center]
 [.lead]
-_Sur La Durabilité des logiciels_
-
-[.text-right] 
-Amal ALSAYED
+[big purple]#*_Sur La Durabilité des logiciels_*#
 
 [.text-center] 
-Année 2019-2020
+[big navy]#Amal ALSAYED#
 
-Amal ALSAYED  Mémoire M2 S2I App
-La Durabilité des logiciels  Panthéon Sorbonne  RTE
+[.text-center] 
+[navy]#Année 2019-2020#
+
+
+[.left]
+image::paris1.jpg[200,200]
+
+[.center]
+image::rte.jpg[200,200]
+
+[.right]
+image::cfafia.jpg[200,200]
+
+
+
+

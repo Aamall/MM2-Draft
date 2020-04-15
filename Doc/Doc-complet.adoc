@@ -10,3 +10,38 @@ include::Introduction.adoc[leveloffset=+1]
 include::Principes-et-Definitions.adoc[leveloffset=+1]
 include::L-importance-du-couplage-entre-Software-et-Hardware.adoc[leveloffset=+1]
 include::Les-cles-de-la-durabilité-de-logiciels-(Matrice).adoc[leveloffset=+1]
+
+
+<<<
+[bibliography]
+== Bibliographie 
+Amal ALSAYED
+
+- [[[A,1]]] Fabian Loeser. Technische Universitaet Berlin. Green IT and Green IS: Definition of Constructs and Overview of Current Practices.
+Cité 67 fois researchgate.net 
+https://www.researchgate.net/profile/Fabian_Loeser/publication/267737651_Green_IT_and_Green_IS_Definition_of_Constructs_and_Overview_of_Current_Practices_Completed_Research_Paper/links/5458cd700cf2cf516483bb66.pdf[L'article]
+
+- [[[B,2]]] S Murugesan.  2008 - ieeexplore.ieee.org. Harnessing Green IT: Principles and Practices. Cité 1318 fois. 
+https://www.pitt.edu/~dtipper/2011/GreenPaper.pdf[L'article]
+
+- [[[C,3]]] Fabien Durif, Dominique Kreziak, Isabelle Prim-Allaz, Élisabeth Robinot. L’obsolescence ou les raisons du remplacement d’un bien durable :
+proposition d’une échelle de mesure. Cité 7 fois afm-marketing.org.
+https://www.afm-marketing.org/fr/system/files/publications/20160517094331_DURIF_KREZIAK_PRIM_ALLAZ_ROBINOT.pdf[L'article]
+
+- [[[D,4]]] Viktor C. Pavlu. 2003 – 2004. Thin-Client/Fat-Client Comparison. UNIVERSITY OF DERBY Derbyshire Business School. 
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.6689&rep=rep1&type=pdf[L'article]
+
+- [[[E,5]]] Luca FALVO. 2016. Haute École de Gestion de Genève (HEG-GE). Développements Natif, Xamarin, Hybride ou Web : Critères de choix et arbre de décision pour
+un développement mobile. 
+https://doc.rero.ch/record/278092/files/TDIG_Falvo_Luca.pdf[L'article]
+
+- [[[F,6]]] Frédéric Bordage. GreenIT.fr. 2019. Empreinte environnementale du numérique mondial.
+https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf[L'article]
+
+
+
+* « Programme / Logiciel ou Application », synonymes ou non ?. Apsynet.fr. 
+https://www.apsynet.fr/programme-logiciel-ou-application-synonymes-ou-non/[L'article]
+
+* Différents types de logiciel d'application. Microordinateur.blogspot.com
+http://microordinateurr.blogspot.com/2012/11/differents-types-de-logiciel-d.html[L'article]
