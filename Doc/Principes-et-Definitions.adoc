@@ -114,19 +114,42 @@ Il est important de noter que les Green IT couvrent un certain nombre de domaine
 
 == La notion de l'Obsolescence Programmée
 
-Les définitions et travaux sur l’obsolescence évoluent selon l’angle d’approche : <<C>>
+L'article "`Art. L. 213-4-1.-I.`" définit l'obsolescence programmée comme :
 
-* *Obsolescence du point de vue du produit* : baisse délibérée de la durée de vie d’un produit par le fabricant-obsolescence planifiée.
-* *Obsolescence du point de vue de l’usage* : raisons pour lesquelles l’usager se sépare d’un produit. Elle diffèrent également selon le type de fin de vie
-du produit.
-* *Obsolescence absolue* (fin de vie technique du produit). 
-* *Obsolescence relative* (finde vie prématurée du produit). 
+*l'Obsolescence Programmée*: se définit par l'ensemble des techniques par lesquelles un metteur sur le marché vise à réduire délibérément la durée de vie
+d'un produit pour en augmenter le taux de remplacement. <<C>>
 
-Selon <<C>>, il existe trois types de raisons invoquées pour expliquer le remplacement : 
+Pour bien expliquer la notion d'obsolescence programmée, voici la différenciation de ses différents types : <<G>>
 
-* L’obsolescence économique.
-* L’obsolescence technologique.
-* L’obsolescence psychologique associée aux tendances de la mode.
+* *L’obsolescence indirecte* : est représentée s'il y a un défaut du produit et qu'il n'est pas possible de le réparer. Par exemple, la perte d'un chargeur
+de téléphone.
+* *L'obsolescence d'incompatibilité* : cela signifie que s'il y a une mise à jour d'un système d'exploitation ou d'une application, il y aura un logiciel qui
+ne fonctionnera plus avec cette mise à jour.
+* *L’obsolescence esthétique* : se fait remarquer par les nouveaux produits régulièrement mis sur le marché avec une esthétique nouvelle, voire améliorée,
+qui rend obsolètes les versions précédentes de ces produits.
+* *L’obsolescence de fonctionnement* : c'est-à-dire la cessation de l'exploitation d'un produit à partir d'une certaine date, ou sa mauvaise qualité qui le
+rend impropre à la consommation. Par exemple, certaines imprimantes étaient équipées d'une puce de comptage qui bloquait l'impression au-delà d'un certain
+nombre de feuilles.
+* *L'obsolescence de service après-vente* : est trouvée s'il est nécessaire de réparer ou d'entretenir un produit, cela coûtera plus cher que d'acheter un
+nouveau produit. Ou s'il est nécessaire de changer une pièce d'équipement qui est détachée du produit, il n'y aura pas souvent la possibilité de la vendre
+séparément, ce qui conduit à l'obligation d'acheter un tout nouvel appareil.
+
+Il existe un accord sur l'existence d'une  obsolescence conjoncturelle des produits. Il se peut que ce soit le cas : <<H>>
+
+* *Raisons techniques* : par exemple, les sauts technologiques ou l'apparition d'incompatibilités entre les équipements.
+* *Raisons économiques* : par exemple, les questions de coûts de stockage des pièces de rechange.
+* *Raisons réglementaires* : par exemple, l'évolution des technologies ou des règles de sécurité (par exemple, l'interdiction ou la restriction de certaines
+substances dangereuses).
+* *Les choix des consommateurs* à la lumière d'une évolution naturelle de la gamme des produits disponibles sur le marché, en fonction de la maturité de la
+technologie en question, des innovations et de la concurrence. L'apparition de fonctionnalités améliorées stimule le lancement de nouveaux produits, avec un
+déclin des produits les moins efficaces (par exemple, performance énergétique, apparition de la 3D pour les téléviseurs).
+
+Le rapport a approuvé les définitions suivantes de l'obsolescence : <<H>>
+
+* *L’obsolescence fonctionnelle* : correspond au fait qu’un produit ne réponde plus aux nouveaux usages attendus, pour des raisons techniques (exemple
+incompatibilité avec de nouveaux équipements), règlementaires et/ou économiques.
+* *L’obsolescence d’évolution* :correspond au fait qu’un produit ne réponde plus aux envies des utilisateurs qui souhaitent acquérir un nouveau modèle du fait
+d’une évolution de fonctionnalité ou de design.
 
 
 == La notion de la famille de logiciels 
