@@ -1,22 +1,16 @@
-:toc:
-:toc: left
-:toclevels: 3
+== Plan 
+=== Introduction
+=== Principes et Définitions
+* Durabilité 
+* Green IT 
+* Obsolescence (ICI AMAL tu parleras de l'obsolesence programmée et des autres voir : http://documents.irevues.inist.fr/bitstream/handle/2042/61710/lm20_com_3B_2_049_Davenel.pdf?sequence=1)
+* Les différentes familles de logiciels
 
-= Plan 
-Amal ALSAYED 
-
-== Introduction
-== Chapitre I : Principes et Définitions
-* La notion de la durabilité 
-* La notion du Green IT 
-* La notion de l'obsolescence programmée
-* La notion de la famille de logiciels (Mon choix d’analyse parmi les différentes familles de Logiciels (SmartPhone))
-* L'empreinte environnementale de matériels informatiques
-
-== Chapitr II : L'importance du couplage entre Software et Hardware
+=== Couplage entre  `_Hardware_` et `_Software_`
+* L'empreinte environnementale de l'informatique
 * Démonstration de l'importance entre Software et Hardware
-* Si le hardware impacte plus sur l’environnemement que le software alors la matric de durabilité pourrait répondre à la question : *Est-ce que le logiciel
-et son cycle de vie fait vieillir que les Matériels (plus ou moins rapidement) ?*
+* Cycle de vie d'un matériel informatique
+* Cycle de vie d'un logiciel
 
-== Chapitre III : Les clés de la durabilité de logiciels (Matrice)
- 
+=== Les clés de la durabilité de logiciels (Matrice)
+* Les critères
