@@ -469,6 +469,68 @@ https://www.ademe.fr/sites/default/files/assets/documents/84636_duree_de_vie_des
 
 
 
+== MAITRISER LES RISQUES D’OBSOLESCENCE : ANTICIPER TO MANAGE OBSOLESCENCE RISKS: ANTICIPATE :
+
+Dans le langage courant, un bien est dit obsolète lorsqu’il ne répond plus au besoin ou qu’il est techniquement dépassé.
+Aujourd’hui, dans nos domaines industriels, un produit est obsolète lorsque nous sommes dans l’incapacité à approvisionner
+ledit produit sur le marché, quelle qu’en soit la cause. L’obsolescence d’un composant ou d’une substance se caractérise donc
+par le passage d’un état de disponibilité à l’achat vers un état d’indisponibilité à l’achat de la référence commerciale du produit
+chez le fabricant, et ceci sur une période connue. L’obsolescence peut être définitive ou temporaire, intentionnelle ou
+involontaire, partielle ou totale, officielle ou inavouée.
+Les causes peuvent être nombreuses :
+* Fabrication arrêtée :
+** Evolution normative ou réglementaire / abandon de technologie,
+** Rendement ou marché trop faible,
+** Rupture d’approvisionnement de matières premières,
+** Osolescence de l’outil de fabrication / test,
+** Perte de compétence du fabricant.
+
+* Commercialisation stoppée ou restrictive, voire dissuasive :
+** Rentabilité trop faible,
+** Changement de stratégie industrielle,
+** Délai de livraison trop long, quantité imposée, prix de vente prohibitif, embargo, licence d’export, allocation.
+
+Le cycle de vie traditionnel de tout produit commercial est le suivant :
+* Introduction : initialisation, mise sur le marché
+* Croissance et maturité ou stabilisation : commercialisation avec support associé
+* Déclin : arrêt de commercialisation avec support personnalisé
+* Retrait : plus aucune action du fournisseur
+
+
+Depuis cette période, on observe un niveau toujours élevé du phénomène d’obsolescence des composants électroniques dû à
+plusieurs raisons :
+* Les technologies à l'état de l'art appartiennent dorénavant au domaine civil,
+* Les durées de vie des composants sont en constante diminution en raison des besoins d’innovation de ces marchés (<
+3 ans !),
+* De nombreuses mutations technologiques (CMS, 5V à 1.5V, RoHS/DEEE, etc.) ;
+* Des marchés cycliques avec surcapacité ou sous-capacité de productions (”nettoyage” des catalogues, fermeture
+d’usines, etc).
+
+Risques liés l’obsolescence
+
+L’obsolescence est une occurrence probable pour tout produit commercial. L’obsolescence appartient aux événements pouvant
+d’une part affecter la disponibilité opérationnelle d’un équipement et d’autre part avoir des conséquences sur les engagements
+contractuels en termes calendaire et financier.
+L’impact peut concerner le programme, l’industriel, le maître d'ouvrage, l’utilisateur ou toute combinaison de ceux-ci. Les cas
+envisageables sont les suivants :
+* Incapacité de l’industriel à fabriquer ou maintenir avec la performance requise dans la spécification de performance du
+système. L’impact du risque peut se traduire pour le client par des restrictions d’emploi du système ou par la
+diminution du taux de réussite dans la mission.
+* Incapacité de l’industriel à fabriquer ou à maintenir dans les délais requis
+* Incapacité de l’industriel à fabriquer ou maintenir dans les coûts définis. L’impact du risque peut se traduire par un
+accroissement du coût d’acquisition pour le client ou par une réduction de la marge bénéficiaire pour le fournisseur.
+Une bonne politique de management des risques constitue un paramètre clé des analyses préalables aux décisions tout au long
+du cycle de vie des systèmes. Elle vise à fiabiliser le bon déroulement des opérations en mettant en œuvre des actions de
+maîtrise des risques sur le triptyque « coût-délai-performance » et en consolidant la programmation financière.
+
+Stratégie de gestion de l’obsolescence (IEC62402, 2007) :
+
+* Stratégie passive
+* Stratégie réactive
+* Stratégie anticipative
+
+
+
 
 
 
