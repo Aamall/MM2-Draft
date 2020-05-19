@@ -1,13 +1,9 @@
-:toc:
-:toc: left
-
-
 
 <<<
-= Chapitr II : L'importance du couplage entre Software et Hardware
+== L'importance du couplage entre Software et Hardware
 Amal ALSAYED
 
-== L'empreinte environnementale de matériels informatiques
+=== L'empreinte environnementale de matériels informatiques
 
 Il existe de nombreux types de matériel informatique, tels que : ordinateurs, smartphones, imprimantes, consoles de jeux vidéo, téléviseurs connectés à un
 boîtier, objets connectés, etc. Chaque type a une empreinte écologique.

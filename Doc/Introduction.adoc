@@ -1,33 +1,45 @@
-:toc:
-:toc: left
-
 <<<
-= Introduction 
-Amal ALSAYED 
+== Introduction
 
-Les industries, les conceptions et les technologies s'accélèrent et progressent considérablement à notre époque pour répondre aux besoins et aux conditions
-préalables de l'homme, notamment la vitesse et le confort.
+ 
 
-Comme nous le savons, ces progrès et cette augmentation ont des effets négatifs. L'un des impacts que nous combattons est l'impact environnemental.
-Ces dernières années, nous avons constaté un grand changement dans le climat. Augmentation des températures et déshydratation dans certains endroits et
-fonte de la neige dans d'autres. 
+Les technologies s'accélèrent et progressent considérablement à notre époque pour répondre aux besoins sans cesse croissants de l'homme.
 
-Il est clair que la technologie et les technologies de l'information contribuent à l'impact environnemental et au changement climatique par le biais de ses
-produits qui ont un effet sur l'environnement pendant leur cycle de vie. La stratégie et la politique que les entreprises suivent pour réduire ces effets est
-le *Green IT* tout au long du cycle de vie de leurs produits, depuis leur fabrication et leur utilisation jusqu'à leur élimination ou leur valorisation. 
+ 
 
-Parce que ce cycle de vie est long et que chacune de ses étapes a un impact sur l'environnement, chaque étape a une stratégie pour faire face à ses effets.
-C'est la raison pour laquelle l'étape d'utilisation a été choisi dans ce mémoire, car elle inclut le couplage entre *logiciels* et *matériels*. Par
-conséquent, la question qui se pose à ce stade est la suivante : *Le logiciel et son cycle de vie font-ils vieillir le matériel (plus ou moins rapidement)
-que le matériel ?* Ainsi, l'objectif de cette thèse est de mettre en place une matrice qui inclut les critères et les clés de la durabilité des logiciels.
-Cette matrice nous permet de déterminer si un logiciel est durable ou non.
+Comme nous le savons dorénavant, cette quête du progrès présente des effets néfastes pour l'environnement et donc pour l'humanité. L'un des impacts les plus menaçant est écologique.
 
-Ainsi, cette thèse consiste à clarifier tout point relatif au *logiciel* et au *matériel* dans la *durabilité* et à construire une définition de ce qu'est la
-*durabilité*, afin qu'au final nous puissions évaluer les critères et les clés de la durabilité du logiciel sélectionné à *SmartPhone*.
+ 
 
-Pour ce faire, nous nous pencherons d'abord sur les principes et les définitions afin de clarifier certains concepts et de déterminer l'empreinte écologique
-du matériel informatique. Nous pourrons ensuite décrire l'importance du couplage entre le logiciel et le matériel informatique afin de pouvoir répondre à
-notre question. Enfin, nous évaluerons la matrice de durabilité des logiciels pour SmartPhone.
+Une grande majorité de scientifiques s'accordent sur la gravité du changement climatique (ICI AMAL mettre un article de référence qui démontre cela). Augmentation de la température moyenne à la surface du globe, apauvrissement de la fertilité des sols, ou encore fonte des glaces aux pôles sont autant d'effets qu'il faut limiter tant que possible et au plus tôt.
+
+ 
+
+Il est clairement établi que les technologies de l'information contribuent à cet impact environnemental et au changement climatique (ICI AMAL mettre un article de référence qui démontre le poids relatif des TIC => exemple : https://www.pourlascience.fr/sd/informatique/linformatique-emet-plus-de-gaz-a-effet-de-serre-que-laviation-8741.php). Il s'agit donc de gérer au mieux le cycle de vie des produits technologiques.
+
+ 
+
+La stratégie ou la politique que les entreprises suivent pour réduire ces effets s'appelle
+
+le *Green IT*. Dans ce domaine, il est démontré que la fabrication des produits représente classiquement un facteur 100 au regard de leur utilisation. On s'intéressera dans ce mémoire à la question d'une utilisation durable des matériels grâce à une saine gestion de leurs logiciels.
+
+ 
+
+Si l'enjeu environnemental repose sur le fait de rendre durable un matériel, alors la question, posée de manière vulgarisée, peut être formulée ainsi : *Le logiciel et son cycle de vie font-ils vieillir le matériel plus ou moins rapidement ?*
+
+ 
+
+L'objectif de cette thèse est donc de construire une matrice de durabilité logicielle qui expose et note les critères de la durabilité logicielle. Idéalement, cette matrice nous permettra de déterminer si un logiciel est durable ou non.
+
+ 
+
+Au préalable, nous nous pencherons sur les principes et définitions afin de clarifier certains concepts puis nous illustrerons le poids relatif des émissions de Gaz à Effet de Serre du logiciel par rapport à la construction d'un équipement (un matériel). Nous pourrons ensuite décrire l'importance du couplage entre le logiciel et le matériel informatique afin de pouvoir répondre à la question que pose ce mémoire. Enfin, nous évaluerons les critères de la matrice de durabilité des logiciels pour la famille logicielle des SmartPhone.
+
+ 
+
+N.B. : il existe plusieurs familles de logiciels (ICI AMAL faire un renvoi cf. chapitre XXX). Ce travail de mémoire se concentre sur la famille logicielle des SmartPhones mais pourra être étendu aux autres familles logicielles si les travaux sont repris pour poursuivre ce premier travail de recherche.
+
+ 
 
 
 
