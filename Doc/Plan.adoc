@@ -1,3 +1,7 @@
+:toc:
+:toc: left
+
+
 == Plan 
 === Introduction
 === Principes et Définitions

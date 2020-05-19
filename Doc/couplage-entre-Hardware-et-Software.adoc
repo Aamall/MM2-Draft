@@ -1,0 +1,73 @@
+:toc:
+:toc: left
+
+
+
+<<<
+= Chapitr II : L'importance du couplage entre Software et Hardware
+Amal ALSAYED
+
+== L'empreinte environnementale de matériels informatiques
+
+Il existe de nombreux types de matériel informatique, tels que : ordinateurs, smartphones, imprimantes, consoles de jeux vidéo, téléviseurs connectés à un
+boîtier, objets connectés, etc. Chaque type a une empreinte écologique.
+
+Bien sûr, il existe plusieurs études qui clarifient l'empreinte écologique. L'étude *Empreinte environnementale du numérique mondial* <<F>> que l'équipe de
+GreenIT.fr a publié, se concentre sur la quantification de l'empreinte environnementale numérique globale et son évolution entre 2010 et 2025.
+
+Cette étude porte sur l’ensemble des équipements électroniques qui manipulent des données binaires, à l’échelle planétaire.
+Elle repose sur une méthodologie d’analyse de cycle de vie (ACV) et s’appuie sur 3 modèles de quantification d’impacts environnementaux
+(utilisateurs, réseaux, centres informatiques) agrégés par un méta modèle.
+
+Quatre indicateurs environnementaux ont été retenus :
+
+* Épuisement des ressources abiotiques (ADP)
+* Réchauffement global (GES)
+* Bilan énergétique (EP)
+* Tension sur l’eau douce (Eau)
+
+Pour chaque indicateur, l'étude a montré les impacts par rapport aux trois modèles (utilisateurs, réseaux, centres de données).
+
+L'étude a montré : 
+
+ "L’empreinte environnementale du numérique mondial est de l’ordre de :
+ * 6 800 TWh d’énergie primaire (EP).
+ * 1 400 millions de tonnes de gaz à effet de serre (GES).
+ * 7,8 millions de m3 d’eau douce (Eau).
+ * 22 millions de tonnes d’antimoine (ADP)."
+
+ "Indicateurs techniques et de flux :
+ * 223 millions de tonnes (masse), soit 179 millions de voitures de 1,3 tonne !
+ * 1 300 TWh d’électricité consommée."
+
+ "Les équipements des utilisateurs sont la principale source d’impacts du numérique mondial. Leur fabrication concentre systématiquement le plus d’impacts
+ avec 30% du bilan énergétique global, 39 % des émissions de GES, 74 % de la consommation d’eau et 76 % de la contribution à l’épuisement des ressources abiotiques.
+ Si on y ajoute les impacts associés à la production de l’électricité qu’ils consomment, les équipements utilisateurs (hors box DSL / fibre) totalisent
+ de 59 % à 84 % des impacts !
+
+ En 2019, la hiérarchie des sources d’impacts est la suivante, par ordre décroissant d'importance :
+ . Fabrication des équipements utilisateurs.
+ . Consommation électrique des équipements utilisateurs.
+ . Consommation électrique du réseau.
+ . Consommation électrique des centres informatiques.
+ . Fabrication des équipements réseau.
+ . Fabrication des équipements hébergés par les centres informatiques (serveurs, etc.).
+
+ Alors que l’informatique – ordinateurs et dispositifs d’affichage associés concentrait de 33 % à 40 % du total des impacts du numérique en 2010, un
+ basculement s’opère depuis 2015, qui se renforce nettement en 2019, avec principalement 3 nouvelles sources d’impacts :
+ . Les télévisions : 9 à 23 % des impacts.
+ . Les smartphones : 6 à 19 % des impacts.
+ . Les objets connectés : 10 à 14 % des impacts."
+
+ "Tous les matériels vont augmenter leurs impactes multiplier de 2 à 3 fois à 2025, mais les objets connectés vont avoir le plus impacte multiplier 5 fois à
+ 2025, La croissance exponentielle du nombre d’objets connectés (de 1 milliard en 2010 à 48 milliards en 2025)."
+
+
+
+
+
+
+
+
+
+
