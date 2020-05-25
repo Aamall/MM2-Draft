@@ -1,44 +1,32 @@
-:toc:
-:toc: left
 :imagesdir: ./images 
 
 
-
 <<<
-= Chapitre I : Principes et Définitions 
+== Principes et Définitions 
 Amal ALSAYED 
 
-== La notion de la Durabilité 
+=== La notion de la Durabilité 
 
-L'un des sujets les plus courants de nos jours est de savoir comment préserver l'environnement ? et comment réduire la pollution, la pollution par le gaz
-à effet de serre ? et l'augmentation du pourcentage de dioxyde de carbone dans l'air ?
+L'un des sujets les plus courants de nos jours est de savoir comment préserver l'environnement ? et comment réduire la pollution, la pollution par le gaz à effet de serre ? et l'augmentation du pourcentage de dioxyde de carbone dans l'air ?
 
-Dans ce contexte, le concept de *Durabilité* est apparu parmi les nombreux efforts déployés. Ces dernières années, on a constaté que cette soit appliquée
-dans plusieurs domaines tels que l'immobilier et l'électroménager. 
+Dans ce contexte, le concept de *Durabilité* est apparu parmi les nombreux efforts déployés. Ces dernières années, on a constaté que cette soit appliquée dans plusieurs domaines tels que l'immobilier et l'électroménager. 
 
-Bien sûr, parmi ces domaines, il y a celui des technologies de l'information, qui à son tour essaie de réduire son impact négatif sur l'environnement.
+Bien sûr, parmi ces domaines, il y a celui des technologies de l'information, qui à son tour essaie de réduire son impact négatif sur l'environnement. 
 
-Ainsi, afin de mieux comprendre la *notion de durabilité*, nous commençons à distinguer les différents concepts de *Green IT* ou de *Gestion durable*,
-*Technologies de l'Information Green* et *Systèmes d'Information Green*.
+Ainsi, afin de mieux comprendre la *notion de durabilité*, nous commençons à distinguer les différents concepts de *Green IT* ou de *Gestion durable*, *Technologies de l'Information Green* et *Systèmes d'Information Green*.
 
-La *Gestion durable* : est un processus de longue durée visant à optimiser les performances économiques, environnementales et sociales en tirant parti des
-ressources naturelles. Ce processus permet de poursuivre les activités de l'entreprise sans faire appel aux nouvelles générations. <<A>>
+La *Gestion durable* : est un processus de longue durée visant à optimiser les performances économiques, environnementales et sociales en tirant parti des ressources naturelles. Ce processus permet de poursuivre les activités de l'entreprise sans faire appel aux nouvelles générations. <<A>>
 
-Avant d'illustrer les concepts de *Technologie de l'Information* et de *Système d'Information*, il est nécessaire de faire une distinction claire entre eux.
-La *Technologie de l'Information* fait référence au matériel informatique, aux logiciels et aux équipements périphériques d'information.
-*Le Système d'Information* est un concept large qui couvre les composantes technologiques et les activités humaines liées au processus de gestion et
-d'utilisation de la technologie au sein de l'organisation. <<A>>
+Avant d'illustrer les concepts de *Technologie de l'Information* et de *Système d'Information*, il est nécessaire de faire une distinction claire entre eux. La *Technologie de l'Information* fait référence au matériel informatique, aux logiciels et aux équipements périphériques d'information. *Le Système d'Information* est un concept large qui couvre les composantes technologiques et les activités humaines liées au processus de gestion et d'utilisation de la technologie au sein de l'organisation. <<A>>
 
 Le concept de SI couvre différents aspects :
 
-** Elle comprend les TI (tels que les serveurs physiques, les ordinateurs de bureau et les dispositifs de réseau) ainsi que les services partagés.
-(tels que les bases de données ou le stockage).
+** Elle comprend les TI (tels que les serveurs physiques, les ordinateurs de bureau et les dispositifs de réseau) ainsi que les services partagés. (tels que les bases de données ou le stockage).
 ** Les applications commerciales (telles que les systèmes ERP).
 ** Les ressources humaines en TI (telles que les compétences et les connaissances).
 ** Capacités de gestion liées aux SI pour les processus organisationnels et la transformation des activités. <<A>>
 
-Les *Technologies de l'Information Green* sont des mesures et des initiatives qui réduisent l'impact négatif de la fabrication sur l'environnement,
-l'exploitation et l'élimination des équipements et des infrastructures informatiques. <<A>>
+Les *Technologies de l'Information Green* sont des mesures et des initiatives qui réduisent l'impact négatif de la fabrication sur l'environnement, l'exploitation et l'élimination des équipements et des infrastructures informatiques. <<A>>
 
 De ce concept, le Green IT pratique : <<A>>
 
@@ -46,8 +34,7 @@ De ce concept, le Green IT pratique : <<A>>
 ** Exploitation informatique économe en énergie dans les centres de données et les environnements de bureau.
 ** Pratiques respectueuses de l'environnement en ce qui concerne l'élimination des équipements informatiques. 
 
-Les *Systèmes d'Information Green* sont les pratiques qui déterminent l'investissement, le déploiement, l'utilisation et la gestion des systèmes
-d'information (SI) afin de minimiser les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI. <<A>>
+Les *Systèmes d'Information Green* sont les pratiques qui déterminent l'investissement, le déploiement, l'utilisation et la gestion des systèmes d'information (SI) afin de minimiser les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI. <<A>>
 
 A partir de ce concept, les caractéristiques de l'IS green : <<A>>
 
@@ -57,34 +44,24 @@ A partir de ce concept, les caractéristiques de l'IS green : <<A>>
 ** Surveillance de la demande en ressources et des émissions des produits et services (analyses du cycle de vie).
 
 
-== La notion du Green IT
+=== La notion du Green IT
 
-Une bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent.
-Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures,
-produits, services, opérations, applications et pratiques informatiques respectueux de l'environnement.
+Une bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent. Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures, produits, services, opérations, applications et pratiques informatiques respectueux de l'environnement.
 
-L'impact le plus important sur l'environnement est l'électricité. En effet, le charbon ou le pétrole qui contribue à la production d'électricité libère
-également du dioxyde de carbone, des polluants et du soufre dans l'atmosphère. La réduction de la consommation d'énergie électrique est essentielle pour
-diminuer les émissions de dioxyde de carbone et leur impact sur notre environnement et le réchauffement climatique. <<B>>
+L'impact le plus important sur l'environnement est l'électricité. En effet, le charbon ou le pétrole qui contribue à la production d'électricité libère également du dioxyde de carbone, des polluants et du soufre dans l'atmosphère. La réduction de la consommation d'énergie électrique est essentielle pour diminuer les émissions de dioxyde de carbone et leur impact sur notre environnement et le réchauffement climatique. <<B>>
 
 Comme indiqué ci-dessus, nous nous intéressons aux technologies de l'information. En effet, la technologie de l'information affectent notre environnement 
-de plusieurs manières différentes. Chaque étape de la vie d'un ordinateur, de sa production à son élimination, en passant par son utilisation, pose des
-problèmes environnementaux. Chaque PC utilisé génère environ une tonne de dioxyde de carbone chaque année. <<B>>
+de plusieurs manières différentes. Chaque étape de la vie d'un ordinateur, de sa production à son élimination, en passant par son utilisation, pose des problèmes environnementaux. Chaque PC utilisé génère environ une tonne de dioxyde de carbone chaque année. <<B>>
 
-Le Green IT est l'étude et la pratique de la conception, de la fabrication, de l'utilisation et de l'élimination des ordinateurs, des serveurs et des
-sous-systèmes associés d'une manière efficace et efficiente avec un impact minimal ou nul sur l'environnement. Le Green IT s'efforce également d'atteindre
-la viabilité économique et d'améliorer les performances et l'utilisation des systèmes, tout en respectant nos responsabilités sociales et éthiques. <<B>>
+Le Green IT est l'étude et la pratique de la conception, de la fabrication, de l'utilisation et de l'élimination des ordinateurs, des serveurs et des sous-systèmes associés d'une manière efficace et efficiente avec un impact minimal ou nul sur l'environnement. Le Green IT s'efforce également d'atteindre la viabilité économique et d'améliorer les performances et l'utilisation des systèmes, tout en respectant nos responsabilités sociales et éthiques. <<B>>
 
-Elle nous conduit donc à appliquer une approche globale pour réduire les impacts environnementaux. Nous devons adopter une approche holistique qui aborde
-les problèmes de quatre manières complémentaires : <<B>>
+Elle nous conduit donc à appliquer une approche globale pour réduire les impacts environnementaux. Nous devons adopter une approche holistique qui aborde les problèmes de quatre manières complémentaires : <<B>>
 
 * Green utilisation : réduire la consommation d'énergie des ordinateurs et autres systèmes d'information et les utiliser de manière écologique.
-* Le Green élimination : remettre à neuf et réutiliser les vieux ordinateurs et recycler correctement les ordinateurs et autres équipements électroniques
-non désirés.
+* Le Green élimination : remettre à neuf et réutiliser les vieux ordinateurs et recycler correctement les ordinateurs et autres équipements électroniques non désirés.
 * Green conception : concevoir des composants, des ordinateurs, des serveurs et des équipements de refroidissement efficaces sur le plan énergétique et
 respectueux de l'environnement.
-* Green fabrication : fabriquer des composants électroniques, des ordinateurs et d'autres sous-systèmes associés avec un impact minimal ou nul sur
-l'environnement.
+* Green fabrication : fabriquer des composants électroniques, des ordinateurs et d'autres sous-systèmes associés avec un impact minimal ou nul sur l'environnement.
 
 Un objectif Green IT essentiel dans l'utilisation des systèmes informatiques et des centres de données opérationnels est de réduire leur consommation 
 'énergie, minimisant ainsi les émissions de gaz à effet de serre. Il existe quelques pratiques : <<B>>
@@ -112,74 +89,56 @@ Il est important de noter que les Green IT couvrent un certain nombre de domaine
 * Utilisation de sources d'énergie renouvelables et éco-labellisation des produits informatiques.
 
 
-== La notion de l'Obsolescence Programmée
+=== La notion de l'Obsolescence Programmée
 
 L'article "`Art. L. 213-4-1.-I.`" définit l'obsolescence programmée comme :
 
-*l'Obsolescence Programmée*: se définit par l'ensemble des techniques par lesquelles un metteur sur le marché vise à réduire délibérément la durée de vie
-d'un produit pour en augmenter le taux de remplacement. <<C>>
+*l'Obsolescence Programmée*: se définit par l'ensemble des techniques par lesquelles un metteur sur le marché vise à réduire délibérément la durée de vie d'un produit pour en augmenter le taux de remplacement. <<C>>
 
 Pour bien expliquer la notion d'obsolescence programmée, voici la différenciation de ses différents types : <<G>>
 
-* *L’obsolescence indirecte* : est représentée s'il y a un défaut du produit et qu'il n'est pas possible de le réparer. Par exemple, la perte d'un chargeur
-de téléphone.
-* *L'obsolescence d'incompatibilité* : cela signifie que s'il y a une mise à jour d'un système d'exploitation ou d'une application, il y aura un logiciel qui
-ne fonctionnera plus avec cette mise à jour.
-* *L’obsolescence esthétique* : se fait remarquer par les nouveaux produits régulièrement mis sur le marché avec une esthétique nouvelle, voire améliorée,
-qui rend obsolètes les versions précédentes de ces produits.
-* *L’obsolescence de fonctionnement* : c'est-à-dire la cessation de l'exploitation d'un produit à partir d'une certaine date, ou sa mauvaise qualité qui le
-rend impropre à la consommation. Par exemple, certaines imprimantes étaient équipées d'une puce de comptage qui bloquait l'impression au-delà d'un certain
-nombre de feuilles.
-* *L'obsolescence de service après-vente* : est trouvée s'il est nécessaire de réparer ou d'entretenir un produit, cela coûtera plus cher que d'acheter un
-nouveau produit. Ou s'il est nécessaire de changer une pièce d'équipement qui est détachée du produit, il n'y aura pas souvent la possibilité de la vendre
-séparément, ce qui conduit à l'obligation d'acheter un tout nouvel appareil.
+* *L’obsolescence indirecte* : est représentée s'il y a un défaut du produit et qu'il n'est pas possible de le réparer. Par exemple, la perte d'un chargeur de téléphone.
+* *L'obsolescence d'incompatibilité* : cela signifie que s'il y a une mise à jour d'un système d'exploitation ou d'une application, il y aura un logiciel qui ne fonctionnera plus avec cette mise à jour.
+* *L’obsolescence esthétique* : se fait remarquer par les nouveaux produits régulièrement mis sur le marché avec une esthétique nouvelle, voire améliorée, qui rend obsolètes les versions précédentes de ces produits.
+* *L’obsolescence de fonctionnement* : c'est-à-dire la cessation de l'exploitation d'un produit à partir d'une certaine date, ou sa mauvaise qualité qui le rend impropre à la consommation. Par exemple, certaines imprimantes étaient équipées d'une puce de comptage qui bloquait l'impression au-delà d'un certain nombre de feuilles.
+* *L'obsolescence de service après-vente* : est trouvée s'il est nécessaire de réparer ou d'entretenir un produit, cela coûtera plus cher que d'acheter un nouveau produit. Ou s'il est nécessaire de changer une pièce d'équipement qui est détachée du produit, il n'y aura pas souvent la possibilité de la vendre séparément, ce qui conduit à l'obligation d'acheter un tout nouvel appareil.
 
 Il existe un accord sur l'existence d'une  obsolescence conjoncturelle des produits. Il se peut que ce soit le cas : <<H>>
 
 * *Raisons techniques* : par exemple, les sauts technologiques ou l'apparition d'incompatibilités entre les équipements.
 * *Raisons économiques* : par exemple, les questions de coûts de stockage des pièces de rechange.
-* *Raisons réglementaires* : par exemple, l'évolution des technologies ou des règles de sécurité (par exemple, l'interdiction ou la restriction de certaines
-substances dangereuses).
-* *Les choix des consommateurs* à la lumière d'une évolution naturelle de la gamme des produits disponibles sur le marché, en fonction de la maturité de la
-technologie en question, des innovations et de la concurrence. L'apparition de fonctionnalités améliorées stimule le lancement de nouveaux produits, avec un
-déclin des produits les moins efficaces (par exemple, performance énergétique, apparition de la 3D pour les téléviseurs).
+* *Raisons réglementaires* : par exemple, l'évolution des technologies ou des règles de sécurité (par exemple, l'interdiction ou la restriction de certaines substances dangereuses).
+* *Les choix des consommateurs* à la lumière d'une évolution naturelle de la gamme des produits disponibles sur le marché, en fonction de la maturité de la technologie en question, des innovations et de la concurrence. L'apparition de fonctionnalités améliorées stimule le lancement de nouveaux produits, avec un déclin des produits les moins efficaces (par exemple, performance énergétique, apparition de la 3D pour les téléviseurs).
 
 Le rapport a approuvé les définitions suivantes de l'obsolescence : <<H>>
 
-* *L’obsolescence fonctionnelle* : correspond au fait qu’un produit ne réponde plus aux nouveaux usages attendus, pour des raisons techniques (exemple
-incompatibilité avec de nouveaux équipements), règlementaires et/ou économiques.
-* *L’obsolescence d’évolution* :correspond au fait qu’un produit ne réponde plus aux envies des utilisateurs qui souhaitent acquérir un nouveau modèle du fait
-d’une évolution de fonctionnalité ou de design.
+* *L’obsolescence fonctionnelle* : correspond au fait qu’un produit ne réponde plus aux nouveaux usages attendus, pour des raisons techniques (exemple incompatibilité avec de nouveaux équipements), règlementaires et/ou économiques.
+* *L’obsolescence d’évolution* :correspond au fait qu’un produit ne réponde plus aux envies des utilisateurs qui souhaitent acquérir un nouveau modèle du fait d’une évolution de fonctionnalité ou de design.
 
 
-== La notion de la famille de logiciels 
+=== La notion de la famille de logiciels
 
 Ce chapitre illustre les différents types de logiciels liés aux types de matériel utilisés (ordinateur, SmartPhone, serveur et centre de données). 
 
-Avant de commencer à présenter les types de logiciels, veuillez noter la différence entre *Software*, *Program*, *Application*, *Client Léger* et
-*Client Lourd*. 
+Avant de commencer à présenter les types de logiciels, veuillez noter la différence entre *Software*, *Program*, *Application*, *Client Léger* et *Client Lourd*. 
 
-Le *Logiciel* : applique une ou plusieurs opérations pour transformer les données d'un état A à un état B.
-Un logiciel traite donc les données par une ou plusieurs séquences d'opérations. 
+Le *Logiciel* : applique une ou plusieurs opérations pour transformer les données d'un état A à un état B. Un logiciel traite donc les données par une ou plusieurs séquences d'opérations. 
 
 Le *Programme* : est une séquence d'opérations. 
 A partir de cette définition, on remarque qu'un *logiciel* est la compilation d'un ensemble de *programmes*.
 
 La *Application* : est la mise à disposition de fonctionnalités pour un usage précis et identifié. 
 
-* Client Léger (Thin Client en anglais) : est une interface utilisateur qui sert principalement à afficher des informations et à répondre aux interactions de
-l'utilisateur. Peu ou pas de logique applicative réside sur le client (à part la vérification de base des entrées), la plupart du travail est effectué sur
-un serveur central. <<D>>
+* Client Léger (Thin Client en anglais) : est une interface utilisateur qui sert principalement à afficher des informations et à répondre aux interactions de l'utilisateur. Peu ou pas de logique applicative réside sur le client (à part la vérification de base des entrées), la plupart du travail est effectué sur un serveur central. <<D>>
 
-* Client Lourd (Fat Client en anglais) : est une application client qui intègre une logique commerciale. Le traitement est donc décentralisé - le serveur
-n'est responsable que de parties rudimentaires de la logique et sert principalement à stocker les données. <<D>>
+* Client Lourd (Fat Client en anglais) : est une application client qui intègre une logique commerciale. Le traitement est donc décentralisé - le serveur n'est responsable que de parties rudimentaires de la logique et sert principalement à stocker les données. <<D>>
 
  
 .Les Matériels
 [caption="Figure 1: "]
 image::Les-Materiels.jpg[Les Materiels]
 
-=== La famille de logiciels sur un desktop
+==== La famille de logiciels sur un desktop
 
 .PlateFormes Ordinateurs
 [caption="Figure 2: "]
@@ -198,10 +157,9 @@ image::Logiciels-Informatiques.jpg[Logiciels Informatiques]
 image::Logiciels-de-Application.jpg[Logiciels d'Application]
 
 
-=== La famille de logiciels sur un SmartPhone
+==== La famille de logiciels sur un SmartPhone
 
-Système d’exploitation mobile est conçu pour fonctionner sur un smartphone, une tablette ou tout autre dispositif mobile. Aujourd’hui, les trois systèmes
-les plus importants sont Android, iOS et Windows Phone. <<E>>
+Système d’exploitation mobile est conçu pour fonctionner sur un smartphone, une tablette ou tout autre dispositif mobile. Aujourd’hui, les trois systèmes les plus importants sont Android, iOS et Windows Phone. <<E>>
 
 * Le système d'exploitation *Android* : <<E>>
 
@@ -209,17 +167,13 @@ Le système d’exploitation d’Android fonctionne sur plusieurs appareils tels
 
 L’architecture d’Android est composée de plusieurs couches : 
 
-* *Linux Kernel* : le kernel est basé sur Linux. Il permet de faire le lien entre la partie hardware et le logiciel. Il contient les différents drivers de
-la partie matérielle.
+* *Linux Kernel* : le kernel est basé sur Linux. Il permet de faire le lien entre la partie hardware et le logiciel. Il contient les différents drivers de la partie matérielle.
 * *Libraries* : la couche suivante contient plusieurs librairies telles que SQLite, SSL,OpenGL...
-* *Android Runtime* : la couche Android Runtime contient des librairies qui permettent aux développeurs d’utiliser un sous-ensemble des libraires Java
-ainsi qu’une machine virtuelle.
-* *Applications Framework* : les applications Android interagissent avec la couche application Framework. Cette couche permet d’accéder au travers d’API aux
-fonctionnalités du dispositif.
+* *Android Runtime* : la couche Android Runtime contient des librairies qui permettent aux développeurs d’utiliser un sous-ensemble des libraires Java ainsi qu’une machine virtuelle.
+* *Applications Framework* : les applications Android interagissent avec la couche application Framework. Cette couche permet d’accéder au travers d’API aux fonctionnalités du dispositif.
 * *Application* : toutes les applications installées se trouvent dans cette couche.
 
-Les applications écrites en Java sont exécutées dans une machine virtuelle. Cependant, au lieu d’utiliser une JVM, Android utilise sa propre machine
-virtuelle (Dalvik Machine, ART).
+Les applications écrites en Java sont exécutées dans une machine virtuelle. Cependant, au lieu d’utiliser une JVM, Android utilise sa propre machine virtuelle (Dalvik Machine, ART).
 
 * Le système d'exploitation *IOS* : <<E>>
 
@@ -230,8 +184,7 @@ L’architecture d’iOS est composée de 4 couches différentes :
 * *Core OS* : cette couche est responsable du système d’exploitation. Elle est en charge de la gestion de la mémoire ainsi que l’accès au matériel du dispositif.
 * *Core Services* : elle contient les API qui permettent aux applications d’accéder à différents services tels que le réseau, les contacts, la base de données.
 * *Media* : la couche média permet d’implémenter des fonctionnalités audio, vidéo et graphiques.
-* *Cocoa Touch* : cette couche définit les bases de l’application. Elle contient de nombreuses fonctionnalités comme la gestion des vues, la reconnaissance
-des gestes, le multitâche, les notifications.
+* *Cocoa Touch* : cette couche définit les bases de l’application. Elle contient de nombreuses fonctionnalités comme la gestion des vues, la reconnaissance des gestes, le multitâche, les notifications.
 
 * Le système d'exploitation *Windows* : <<E>>
 
@@ -252,8 +205,8 @@ image::Plate-Formes-Smart-Phone.jpg[PlateFormes SmartPhone]
 image::Application-Mobile.jpg[Applications Mobile]
 
 
-=== La famille de logiciels sur une centre de données
+==== La famille de logiciels sur une centre de données
 
-=== La famille de logiciels sur un serveur
+==== La famille de logiciels sur un serveur
 
 
