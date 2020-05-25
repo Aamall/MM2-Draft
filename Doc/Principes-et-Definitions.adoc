@@ -219,4 +219,4 @@ image::Les-types-de-serveurs.jpg[Différents types de serveurs]
 
 .Systèmes d'exploitation des serveurs
 [caption="Figure 9: "]
-image::Systèmes-exploitation-serveurs.jpg[Systèmes d'exploitation des serveurs]
+image::Systemes-exploitation-serveurs.jpg[Systèmes d'exploitation des serveurs]
