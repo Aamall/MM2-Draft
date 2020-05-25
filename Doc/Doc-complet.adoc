@@ -1,5 +1,3 @@
-:toc:
-:toc: left
 :toc-title: Plan
 
 
@@ -7,7 +5,7 @@
 include::Remerciement.adoc[leveloffset=+1]
 include::Introduction.adoc[leveloffset=+1]
 include::Principes-et-Definitions.adoc[leveloffset=+1]
-include::L-importance-du-couplage-entre-Software-et-Hardware.adoc[leveloffset=+1]
+include::couplage-entre-Hardware-et-Software.adoc[leveloffset=+1]
 include::Les-cles-de-la-durabilité-de-logiciels-(Matrice).adoc[leveloffset=+1]
 
 
@@ -44,7 +42,10 @@ http://www.assemblee-nationale.fr/13/rap-info/i3880.asp[L'article]
 éléctroniques. Juillet 2012. Agence de la transition écologique (ADEME). ademe.fr.
 https://www.ademe.fr/sites/default/files/assets/documents/84636_duree_de_vie_des_eee.pdf[L'article]
 
+- [[[I,9]]] Mohan MUNASINGHE, Osvaldo CANZIANI, Ogunlade DAVIDSON, Bert METZ, Martin PARRY, Mike HarrisonIntegrating sustainable development and climate change in the IPCC fourth assessment report. 2003. 
+https://archive.ipcc.ch/pdf/supporting-material/ipcc-4th-assessment-2003-03.pdf[L'article]
 
+- [[[J,10]]] L'informatique émet plus de gaz à effet de serre que l'aviation.  21 octobre 2015
  
 
 
