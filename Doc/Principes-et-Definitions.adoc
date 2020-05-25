@@ -19,12 +19,12 @@ La *Gestion durable* : est un processus de longue durée visant à optimiser les
 
 Avant d'illustrer les concepts de *Technologie de l'Information* et de *Système d'Information*, il est nécessaire de faire une distinction claire entre eux. La *Technologie de l'Information* fait référence au matériel informatique, aux logiciels et aux équipements périphériques d'information. *Le Système d'Information* est un concept large qui couvre les composantes technologiques et les activités humaines liées au processus de gestion et d'utilisation de la technologie au sein de l'organisation. <<A>>
 
-Le concept de SI couvre différents aspects :
+Le concept de SI couvre différents aspects : <<A>>
 
 ** Elle comprend les TI (tels que les serveurs physiques, les ordinateurs de bureau et les dispositifs de réseau) ainsi que les services partagés. (tels que les bases de données ou le stockage).
 ** Les applications commerciales (telles que les systèmes ERP).
 ** Les ressources humaines en TI (telles que les compétences et les connaissances).
-** Capacités de gestion liées aux SI pour les processus organisationnels et la transformation des activités. <<A>>
+** Capacités de gestion liées aux SI pour les processus organisationnels et la transformation des activités. 
 
 Les *Technologies de l'Information Green* sont des mesures et des initiatives qui réduisent l'impact négatif de la fabrication sur l'environnement, l'exploitation et l'élimination des équipements et des infrastructures informatiques. <<A>>
 
@@ -64,7 +64,7 @@ respectueux de l'environnement.
 * Green fabrication : fabriquer des composants électroniques, des ordinateurs et d'autres sous-systèmes associés avec un impact minimal ou nul sur l'environnement.
 
 Un objectif Green IT essentiel dans l'utilisation des systèmes informatiques et des centres de données opérationnels est de réduire leur consommation 
-'énergie, minimisant ainsi les émissions de gaz à effet de serre. Il existe quelques pratiques : <<B>>
+d'énergie, minimisant ainsi les émissions de gaz à effet de serre. Il existe quelques pratiques : <<B>>
 
 * Réduire la consommation d'énergie des PC.
 * Activation des fonctions de gestion de l'énergie.
@@ -207,6 +207,16 @@ image::Application-Mobile.jpg[Applications Mobile]
 
 ==== La famille de logiciels sur une centre de données
 
-==== La famille de logiciels sur un serveur
+==== La famille de logiciels sur un serveur / Les différents types de serveurs
 
 
+.Différents types de serveurs
+[caption="Figure 8: "]
+image::Les-types-de-serveurs.jpg[Différents types de serveurs]
+
+
+
+
+.Systèmes d'exploitation des serveurs
+[caption="Figure 9: "]
+image::Systèmes-exploitation-serveurs.jpg[Systèmes d'exploitation des serveurs]
