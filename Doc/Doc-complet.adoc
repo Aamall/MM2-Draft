@@ -56,4 +56,6 @@ https://www.apsynet.fr/programme-logiciel-ou-application-synonymes-ou-non/[L'art
 * Différents types de logiciel d'application. Microordinateur.blogspot.com
 http://microordinateurr.blogspot.com/2012/11/differents-types-de-logiciel-d.html[L'article]
 
-* La norme CEI 62402 utilise le mot « obsolète »
+* La norme CEI 62402 utilise le mot « obsolète » ???
+
+* IT Explained: Serveurs : https://www.fr.paessler.com/it-explained/server

@@ -7,45 +7,35 @@ Amal ALSAYED
 
 Il existe de nombreux types de matériel informatique, tels que : ordinateurs, smartphones, imprimantes, consoles de jeux vidéo, téléviseurs connectés à un boîtier, objets connectés, etc. Chaque type a une empreinte écologique.
 
-Bien sûr, il existe plusieurs études qui clarifient l'empreinte écologique. L'étude *Empreinte environnementale du numérique mondial* <<F>> que l'équipe de GreenIT.fr a publié, se concentre sur la quantification de l'empreinte environnementale numérique globale et son évolution entre 2010 et 2025.
+Bien sûr, il existe plusieurs études qui clarifient l'empreinte écologique. L'une des ces études est *Empreinte environnementale du numérique mondial* <<F>> que l'équipe de GreenIT.fr a publié, qui se concentre sur la quantification de l'empreinte environnementale numérique globale et son évolution entre 2010 et 2025.
 
-Cette étude porte sur l’ensemble des équipements électroniques qui manipulent des données binaires, à l’échelle planétaire. Elle repose sur une méthodologie d’analyse de cycle de vie (ACV) et s’appuie sur 3 modèles de quantification d’impacts environnementaux (utilisateurs, réseaux, centres informatiques) agrégés par un méta modèle.
+Cette étude s'applique à tous les équipements électroniques qui manipulent des données binaires. Elle est basée sur une méthodologie d'analyse du cycle de vie (ACV), et s'appuie sur trois modèles de quantification des impacts environnementaux (utilisateurs, réseaux, centres informatiques) agrégés par un méta-modèle.
 
-Quatre indicateurs environnementaux ont été retenus :
+Les quatre indicateurs qui ont été pris en compte dans cette étude : <<F>> 
 
-* Épuisement des ressources abiotiques (ADP)
-* Réchauffement global (GES)
-* Bilan énergétique (EP)
-* Tension sur l’eau douce (Eau)
+* Épuisement des ressources abiotiques (ADP) : cet indicateur, qui évalue l'impact de la technologie numérique sur l'épuisement des stocks de minéraux.
+* Réchauffement global (GES) : cet indicateur reflète le changement climatique.
+* Bilan énergétique (EP) : L'eau douce est considérée comme la deuxième ressource physiologique de base la plus importante pour l'homme et des millions d'autres formes de vie. Par conséquent, l'eau bleue est plus accessible aux êtres humains que l'eau verte, qui n'est accessible qu'aux plantes. Cela signifie que si la technologie numérique augmente la consommation d'eau bleue, cette dernière sera moins disponible pour d'autres usages à un moment donné.
+* Tension sur l’eau douce (Eau) : L'énergie primaire est l'énergie nécessaire pour produire l'énergie finale. Ainsi, en numérique, selon l'étape du cycle de vie d'un équipement, il y aura différentes énergies primaires pour produire différentes énergies finales. 
 
-Pour chaque indicateur, l'étude a montré les impacts par rapport aux trois modèles (utilisateurs, réseaux, centres de données).
+Le mot *Numérique* n'est pas abstrait. Il est donc traduit par équipement et câbles. Pour cela, l'équipe de GreenIt.fr a divisé le monde numérique en trois tiers : les *utilisateurs*, les *centres informatiques* et les *réseaux* qui relient les utilisateurs entre eux et aux centres informatiques. 
 
-L'étude a montré : 
+Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de GreenIT.fr a étudié l'ensemble des impacts environnementaux pour chaque tiers du numérique. Nous présentons quelques résultats de l'étude : <<F>>
 
  "L’empreinte environnementale du numérique mondial est de l’ordre de :
  * 6 800 TWh d’énergie primaire (EP).
  * 1 400 millions de tonnes de gaz à effet de serre (GES).
  * 7,8 millions de m3 d’eau douce (Eau).
- * 22 millions de tonnes d’antimoine (ADP)."
+ * 22 millions de tonnes d’antimoine (ADP)."  
 
- "Indicateurs techniques et de flux :
- * 223 millions de tonnes (masse), soit 179 millions de voitures de 1,3 tonne !
- * 1 300 TWh d’électricité consommée."
+    "L'étude indique que les émissions de gaz à effet de serre sont directement liées à la combustion de l'énergie primaire fossile que nous produisons à tous les stades du cycle de vie des équipements numériques. Cela signifie que la fabrication des équipements utilisateurs prend en charge la station d'émission principale, suivie de l'alimentation électrique, puis des équipements de réseau et des centres informatiques." 
 
- "Les équipements des utilisateurs sont la principale source d’impacts du numérique mondial. Leur fabrication concentre systématiquement le plus d’impacts avec 30% du bilan énergétique global, 39 % des émissions de GES, 74 % de la consommation d’eau et 76 % de la contribution à l’épuisement des ressources abiotiques.
- Si on y ajoute les impacts associés à la production de l’électricité qu’ils consomment, les équipements utilisateurs (hors box DSL / fibre) totalisent  de 59 % à 84 % des impacts !
+    "C'est la phase d'utilisation qui émet le plus de gaz à effet de serre. Cela signifie qu'à volume constant d'émissions de GES, plus la phase d'utilisation augmente, plus la durée de vie des équipements s'allonge."  
 
- En 2019, la hiérarchie des sources d’impacts est la suivante, par ordre décroissant d'importance :
- . Fabrication des équipements utilisateurs.
- . Consommation électrique des équipements utilisateurs.
- . Consommation électrique du réseau.
- . Consommation électrique des centres informatiques.
- . Fabrication des équipements réseau.
- . Fabrication des équipements hébergés par les centres informatiques (serveurs, etc.).
+    "Les équipements des utilisateurs sont la principale source d’impacts du numérique mondial. Leur fabrication concentre systématiquement le plus d’impacts avec 30% du bilan énergétique global, 39 % des émissions de GES, 74 % de la consommation d’eau et 76 % de la contribution à l’épuisement des ressources abiotiques.Si on y ajoute les impacts associés à la production de l’électricité qu’ils consomment, les équipements utilisateurs (hors box DSL / fibre) totalisent  de 59 % à 84 % des impacts !" 
 
- Alors que l’informatique – ordinateurs et dispositifs d’affichage associés concentrait de 33 % à 40 % du total des impacts du numérique en 2010, un basculement s’opère depuis 2015, qui se renforce nettement en 2019, avec principalement 3 nouvelles sources d’impacts :
- . Les télévisions : 9 à 23 % des impacts.
- . Les smartphones : 6 à 19 % des impacts.
- . Les objets connectés : 10 à 14 % des impacts."
+    "Tous les matériels vont augmenter leurs impactes multiplier de 2 à 3 fois à 2025, mais les objets connectés vont avoir le plus impacte multiplier 5 fois à 2025, La croissance exponentielle du nombre d’objets connectés (de 1 milliard en 2010 à 48 milliards en 2025)." 
 
- "Tous les matériels vont augmenter leurs impactes multiplier de 2 à 3 fois à 2025, mais les objets connectés vont avoir le plus impacte multiplier 5 fois à 2025, La croissance exponentielle du nombre d’objets connectés (de 1 milliard en 2010 à 48 milliards en 2025)."
+Ces résultats nous encouragent donc à réduire autant que possible ces impacts environnementaux. Car après tout ce qui précède, nous constatons le grand effet de la technologie numérique sur l'environnement, qui augmente chaque année avec la croissance des équipements numériques et de leurs utilisations. Cette croissance est liée au soutien de l'économie, il n'est donc plus acceptable d'accélérer volontairement notre empreinte numérique uniquement pour le bien de l'économie, ce qui est la principale raison de la croissance effrénée des impacts numériques. 
+
+En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'info <<F>>) .
