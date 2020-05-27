@@ -1,3 +1,4 @@
+:imagesdir: ./images 
 
 <<<
 == L'importance du couplage entre Software et Hardware
@@ -22,7 +23,7 @@ Le mot *Numérique* n'est pas abstrait. Il est donc traduit par équipement et c
 
 Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de GreenIT.fr a étudié l'ensemble des impacts environnementaux pour chaque tiers du numérique. Nous présentons quelques résultats de l'étude : <<F>>
 
- "L’empreinte environnementale du numérique mondial est de l’ordre de :
+ "L'empreinte environnementale du numérique mondial est de l'ordre de :
  * 6 800 TWh d’énergie primaire (EP).
  * 1 400 millions de tonnes de gaz à effet de serre (GES).
  * 7,8 millions de m3 d’eau douce (Eau).
@@ -39,3 +40,49 @@ Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de Green
 Ces résultats nous encouragent donc à réduire autant que possible ces impacts environnementaux. Car après tout ce qui précède, nous constatons le grand effet de la technologie numérique sur l'environnement, qui augmente chaque année avec la croissance des équipements numériques et de leurs utilisations. Cette croissance est liée au soutien de l'économie, il n'est donc plus acceptable d'accélérer volontairement notre empreinte numérique uniquement pour le bien de l'économie, ce qui est la principale raison de la croissance effrénée des impacts numériques. 
 
 En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'info <<F>>) .
+
+=== Démonstration de l'importance entre Software et Hardware
+
+
+=== Cycle de vie d'un matériel informatique
+
+Comme il le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : est l'ensemble du matériel informatique, des logiciels. Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et des logiciels. 
+
+Dans ce paragraphe, nous parlerons du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
+
+
+=== Cycle de vie d'un logiciel
+
+Pour illustrer la notion de logiciel, l'Organisation internationale de normalisation (ISO), a défini en 1981 le logiciel (en anglais software) comme une création intellectuelle rassemblant des programmes, des procédures, des règles et de la documentation utilisés pour faire fonctionner un système informatique. Pour renforcer le caractère intellectuel dulogiciel, l'ISO précise en plus que le logiciel existe indépendemment des supports utilisés pour le transporter, ce qui sous-entend qu'il ne faut pas confondre le logiciel avec son support. <<K>>
+
+Nous définissons le cycle de vie des logiciels : est la période de temps s'étalant du début à la fin du processus du logiciel. Il commence donc avec la proposition ou la décision de développer un logiciel et se termine avec sa mise hors service. <<K>>
+
+Un autre terme pour décrire le cycle de vie des logiciels est le *Processus du logiciel* (en anglais *Software process*). Ce processus est composé de plusieurs sous-processus qui échangent et communiquent entre eux. Pour chaque processus, il y a des conditions à déclencher, des caractéristiques uniques, des activités déployées, certaines ressources utilisées et les produits qui en résultent et ses critères de fin. Les activités qui font partie d'un processus sont à leur tour divisées en sous-activités et en tâches plus détaillées. <<K>> 
+
+.Architecture du processus du logiciel (Software process architecture, ISO/JTC1/SC7/WG3) <<K>> 
+[caption="Figure 12: "]
+image::Architecture-du-processus-du-logiciel.jpg[Architecture du processus du logiciel]
+
+
+En partant de la définition du cycle de vie des logiciels, nous découvrons que le cycle de vie des logiciels se compose de quatre phases <<K>>  qui se succèdent les unes aux autres : 
+
+* *Avant-projet/ Etude préalable* : c'est la phase préparatoire qui a des tâches telles que répondre à des questions comme la clarification de l'objectif du logiciel et de son importance. Il s'agit notamment de clarifier les aspects techniques et de gestion, les phases de ce logiciel et les besoins des utilisateurs. Pour chacune de ces phases, il existe plusieurs petites tâches détaillées. Les résultats de cette phase sont documentés dans un document appelé *Cahier de charge/Spécification du projet* (en anglais projet specification).
+* *Développement* : nous pouvons aussi dire le *cycle de développement du logiciel* qui commence avec la décision de développer un logiciel et se termine avec la livraison du logiciel et son installation. Nous en parlons en détail par la suite.
+* *Exploitation et Maintenance* : après l'achèvement de la phase précédente et avant d'entrer dans la phase d'exploitation, le logiciel passe au stade de *installation*. Cette étape est prise en charge soit par l'équipe de développement pour les logiciels en développement interne, soit par l'utilisateur qui effectue l'installation dans le cas de logiciels largement distribués, et est soutenue par l'assistance du distributeur (service après-vente). Après cette étape vient la phase d'exploitation et de maintenance, qui comprend l'exploitation du logiciel dans son environnement d'exploitation, sa surveillance et sa modification si nécessaire.
+N.B. : la maintenance du logiciel consisterait à corriger les erreurs, à ajouter de nouvelles fonctionnalités, à l'adopter avec un nouvel environnement, etc. On distingue donc plusieurs types de maintenance : la maintenance corrective, la maintenance perfective et la maintenance adaptative. Souvent, la maintenance d'un logiciel nécessite de revenir à la phase de développement pour le réappliquer. Après chaque maintenance d'un logiciel, il faut bien sûr le distribuer. En outre, il faut fournir une assistance technique et un soutien en matière de conseil.
+* *Retrait* : la dernière phase que nous pouvons également appeler *Mettre le logiciel hors de service*. Cette phase comprend : avertir les utilisateurs,effectuer une exploitation en parallèle du logiciel à retirer, arrêter le support du logiciel.
+
+Pour revenir au cycle de développement du logiciel <<K>>. Ce dernier se compose de plusieurs phases qui sont les suivantes :
+
+* *La gestion du projet*.
+* *La vérification et validation*.
+* *Le développement de la documentation*.
+* *La gestion de la configuration*.
+* *La formation*. 
+
+De tout ce qui précède, nous avons résumé le cycle de vie des logiciels et le cycle de développement des logiciels, ce qui correspond au but de cette thèse (pour aller plus en détail <<K>>). 
+
+.Cycle de vie du logiciel <<K>> 
+[caption="Figure 13: "]
+image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel]
+

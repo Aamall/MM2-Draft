@@ -215,8 +215,6 @@ image::Application-Mobile.jpg[Applications Mobile]
 image::Les-types-de-serveurs.jpg[Différents types de serveurs]
 
 
-
-
 .Systèmes d'exploitation des serveurs
 [caption="Figure 9: "]
 image::Systemes-exploitation-serveurs.jpg[Systèmes d'exploitation des serveurs]

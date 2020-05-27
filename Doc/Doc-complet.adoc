@@ -46,6 +46,11 @@ https://www.ademe.fr/sites/default/files/assets/documents/84636_duree_de_vie_des
 https://archive.ipcc.ch/pdf/supporting-material/ipcc-4th-assessment-2003-03.pdf[L'article]
 
 - [[[J,10]]] L'informatique émet plus de gaz à effet de serre que l'aviation.  21 octobre 2015
+
+- [[[K,11]]] Didier Buchs, 20 May 2014, Cycle de vie du logiciel.
+https://www.researchgate.net/profile/Didier_Buchs/publication/37422534_Cycle_de_vie_du_logiciel/links/0fcfd5111030d47f2c000000.pdf[L'article]
+
+
  
 
 
