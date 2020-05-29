@@ -118,44 +118,30 @@ Le rapport a approuvé les définitions suivantes de l'obsolescence : <<H>>
 
 === La notion de la famille de logiciels
 
-Ce chapitre illustre les différents types de logiciels liés aux types de matériel utilisés (ordinateur, SmartPhone, serveur et centre de données). 
+Ce chapitre illustre les différents types de logiciels liés aux types de matériel utilisés (ordinateur, SmartPhone, serveur). 
 
-Avant de commencer à présenter les types de logiciels, veuillez noter la différence entre *Software*, *Program*, *Application*, *Client Léger* et *Client Lourd*. 
+Avant de commencer à présenter les types de logiciels, notons la différence entre *Logiciel*, *Program*, *Application* (en *Client Léger* et/ou en *Client Lourd*). 
 
 Le *Logiciel* : applique une ou plusieurs opérations pour transformer les données d'un état A à un état B. Un logiciel traite donc les données par une ou plusieurs séquences d'opérations. 
 
 Le *Programme* : est une séquence d'opérations. 
 A partir de cette définition, on remarque qu'un *logiciel* est la compilation d'un ensemble de *programmes*.
 
-La *Application* : est la mise à disposition de fonctionnalités pour un usage précis et identifié. 
+L' *Application* : est la mise à disposition de fonctionnalités pour un usage précis et identifié. Elle s'instancie soit :
 
-* Client Léger (Thin Client en anglais) : est une interface utilisateur qui sert principalement à afficher des informations et à répondre aux interactions de l'utilisateur. Peu ou pas de logique applicative réside sur le client (à part la vérification de base des entrées), la plupart du travail est effectué sur un serveur central. <<D>>
+* En *Client Léger* (Thin Client en anglais) : est une interface utilisateur qui sert principalement à afficher des informations et à répondre aux interactions de l'utilisateur. Peu ou pas de logique applicative réside sur le client (à part la vérification de base des entrées), la plupart du travail est effectué sur un serveur central. <<D>>
 
-* Client Lourd (Fat Client en anglais) : est une application client qui intègre une logique commerciale. Le traitement est donc décentralisé - le serveur n'est responsable que de parties rudimentaires de la logique et sert principalement à stocker les données. <<D>>
+* En *Client Lourd* (Fat Client en anglais) : est une application client qui intègre une logique commerciale. Le traitement est donc décentralisé - le serveur n'est responsable que de parties rudimentaires de la logique et sert principalement à stocker les données. <<D>>
 
+Ces types de composants interagissent avec différents classes de Matériels. 
  
 .Les Matériels
 [caption="Figure 1: "]
-image::Les-Materiels.jpg[Les Materiels]
+image::Materiels.png[Les Materiels]
 
-==== La famille de logiciels sur un desktop
+Sur ces matériels, nous installons un Système d'Exploitation qui offre à l'utilisateur la possibilité d'interagir avec un lot d'applications pour ses besoins.  Les Systèmes d'Exploitation les plus connus : *Windows*, *Linux* et *Mac-OS*.
 
-.PlateFormes Ordinateurs
-[caption="Figure 2: "]
-image::Plate-Formes-Ordinateur.jpg[PlateFormes Ordinateurs]
-
-.Systèmes Logiciels
-[caption="Figure 3: "]
-image::Systemes-Logiciels.jpg[Systèmes Logiciels]
-
-.Logiciels Informatiques
-[caption="Figure 4: "]
-image::Logiciels-Informatiques.jpg[Logiciels Informatiques]
-
-.Logiciels d'Application
-[caption="Figure 5: "]
-image::Logiciels-de-Application.jpg[Logiciels d'Application]
-
+Sur ces systèmes d'exploitation, des logiciels peuvent être installés. Ces logiciels sont variés en fonction de leur utilisation, tels que : *Logiciels d'Application*, *Logiciels d'Exploitation* et *Logiciels de programmation*. Ces logiciels peuvent être soit *Payants*, soit *Gratuits*, soit *Open-Source*.
 
 ==== La famille de logiciels sur un SmartPhone
 
@@ -196,25 +182,16 @@ L’architecture d’une application Windows est composée de 4 couches :
 * *View* : la dernière couche contient les vues avec lesquelles les utilisateurs vont interagir.
 
 
-.PlateFormes SmartPhone
-[caption="Figure 6: "]
-image::Plate-Formes-Smart-Phone.jpg[PlateFormes SmartPhone]
+Il existe plusieurs types de développement pour mettre au point une application mobile. Ces développements comprennent : <<E>>
 
-.Applications Mobile
-[caption="Figure 7: "]
-image::Application-Mobile.jpg[Applications Mobile]
+* Le *Développement Native* : est spécialement développée pour un système d'exploitation. Ainsi, Android, iOS et Windows Phone, nous avons besoin de trois versions de logiciels. Sachant que chaque système d'exploitation possède ses propres outils, langages et spécificités. Ces applications nécessitent d'installer sur l'appareil.
+* Le *Développement Web* : sont conçues pour fonctionner dans un navigateur web et sont généralement adaptées pour qu’elles puissent s’exécuter dans un navigateur mobile. Elles n'ont besoin que d'un navigateur mobile pour les utiliser.
+* Le *Développement Multiplatforme* : Leur objectif est de développer une application qui fonctionne sur tous les systèmes d'exploitation.
 
+==== La famille de logiciels sur un serveur 
 
-==== La famille de logiciels sur une centre de données
+Le serveur est un dispositif qui met des ressources, des données, des services ou des logiciels à la disposition des clients et qui est connecté au réseau. Il existe plusieurs types de serveurs en fonction de leurs services. En outre, le serveur dispose d'un système d'exploitation, tel que Windows, Linux/Unix et Mac-OS.
 
-==== La famille de logiciels sur un serveur / Les différents types de serveurs
-
-
-.Différents types de serveurs
+.Différents types de serveurs et leurs logiciels
 [caption="Figure 8: "]
-image::Les-types-de-serveurs.jpg[Différents types de serveurs]
-
-
-.Systèmes d'exploitation des serveurs
-[caption="Figure 9: "]
-image::Systemes-exploitation-serveurs.jpg[Systèmes d'exploitation des serveurs]
+image::Les-types-de-serveurs-leurs-logiciels.png[Différents types de serveurs]

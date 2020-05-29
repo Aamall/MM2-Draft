@@ -11,11 +11,11 @@ Comme nous le savons dorénavant, cette quête du progrès présente des effets 
 
  
 
-Une grande majorité de scientifiques s'accordent sur la gravité du changement climatique "plus d'info <<I>>". Augmentation de la température moyenne à la surface du globe, appauvrissement de la fertilité des sols, ou encore fonte des glaces aux pôles sont autant d'effets qu'il faut limiter tant que possible et au plus tôt.
+Une grande majorité de scientifiques s'accordent sur la gravité du changement climatique <<I>> footnote:[Integrating sustainable development and climate change in the IPCC fourth assessment report. https://archive.ipcc.ch/pdf/supporting-material/ipcc-4th-assessment-2003-03.pdf]. Augmentation de la température moyenne à la surface du globe, appauvrissement de la fertilité des sols, ou encore fonte des glaces aux pôles sont autant d'effets qu'il faut limiter tant que possible et au plus tôt.
 
  
 
-Il est clairement établi que les technologies de l'information contribuent à cet impact environnemental et au changement climatique "plus d'info <<J>>. Il s'agit donc de gérer au mieux le cycle de vie des produits technologiques.
+Il est clairement établi que les technologies de l'information contribuent à cet impact environnemental et au changement climatique <<J>> footnote:[L'informatique émet plus de gaz à effet de serre que l'aviation. https://www.pourlascience.fr/sd/informatique/linformatique-emet-plus-de-gaz-a-effet-de-serre-que-laviation-8741.php]. Il s'agit donc de gérer au mieux le cycle de vie des produits technologiques.
 
  
 
