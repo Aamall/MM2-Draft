@@ -530,27 +530,37 @@ Stratégie de gestion de l’obsolescence (IEC62402, 2007) :
 * Stratégie anticipative
 
 
+==  Cycle de vie du logiciel
+
+* l'Organisation internationale de normalisation (ISO), a défini en 1981 le logiciel (en anglais software) comme une création intellectuelle rassemblant des programmes, des procédures, des règles et de la documentation utilisés pour faire fonctionner un système informatique. Pour renforcer le caractère intellectuel dulogiciel, l'ISO précise en plus que le logiciel existe indépendemment des supports utilisés pour le transporter, ce qui sous-entend qu'il ne faut pas confondre le logiciel avec son support.
+* Le génie logiciel cherche à établir et à utiliser des principes sains d'ingénierie dans le but de développer économiquement du logiciel qui satisfait les besoins, qui est fiable et qui fonctionne efficacement sur des machines réelles (d'après Fritz Bauer, 1969).
+* En résumé, dans cette vue du génie logiciel, on peut dire que le résultat d'un procédé est un produit, et qu'un procédé est mis en oeuvre par des personnes qui utilisent des méthodes, techniques, outils et notations communs à la profession.
+* le cycle de vie des logiciels : est la période de temps s'étalant du début à la fin du processus du logiciel. Il commence donc avec la proposition ou la décision de développer un logiciel et se termine avec sa mise hors service.
+* Le cycle de développement du logiciel commence avec la décision de développer un logiciel et se termine avec la livraison du logiciel et son installation.
 
 
+== What do programmers know about Software energy consumption ? 
+
+* For mobile devices, energy consumption affects battery life and limits device use.
+* For datacenters, energy consumption limits the number of machines that can be run and cooled.
+* To reduce software energy consumption, programmers must start by measuring the energy consumption of their software.
+* 
 
 
+== Requirements: The Key to Sustainability :
 
+* Sustainability is the capacity to endure, so a system’s sustainability describes how well it will continue to exist and function, even as
+circumstances change.
+* Software engineers tend to focus on sustainability’s technical dimension, in which it’s simply a measure of the software system’s longevity.
+* we must ask which system to sustain, for whom, over which time frame, and at what cost. This involves five interrelated dimensions:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+** The individual dimension covers individual freedom and agency (the ability to act in an environment), human dignity, and fulfillment.
+It includes individuals’ ability to thrive, exercise their rights, and develop freely.
+** The social dimension covers relationships between individuals and groups. For example, it covers the structures of mutual trust and communication in 
+a social system and the balance between conflicting interests.
+** The economic dimension covers financial aspects and business value. It includes capital growth and liquidity, investment questions, and financialoperations.
+** The technical dimension covers the ability to maintain and evolve artificial systems (such as software) over time. It refers to maintenance and evolution,
+resilience, and the ease of system transitions.
+** The environmental dimension covers the use and stewardship of natural resources. It includes questions ranging from immediate waste production and energy
+consumption to the balance of local ecosystems and climate change concerns.
 
