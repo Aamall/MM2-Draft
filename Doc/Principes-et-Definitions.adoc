@@ -3,7 +3,7 @@
 
 <<<
 == Principes et Définitions 
-Amal ALSAYED 
+
 
 === La notion de la Durabilité 
 

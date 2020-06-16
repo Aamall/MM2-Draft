@@ -2,7 +2,7 @@
 
 <<<
 == L'importance du couplage entre Software et Hardware
-Amal ALSAYED
+De l'importance du couplage entre le logiciel et le matériel qu'elle s'agit de travailler sur la durabilité du logiciel qui offre la durabilité du matériel. Sans l'existence de la durabilité du matériel, il n'y a aucun intérêt à la durabilité des logiciels, car l'empreinte écologique dépend de la durabilité du matériel.
 
 === L'empreinte environnementale de matériels informatiques
 
