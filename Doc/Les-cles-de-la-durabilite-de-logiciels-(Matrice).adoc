@@ -23,3 +23,7 @@ Les critères :  /// reste à faire ///
 * Mode nuit / jour
 * Logiciels audio / travailler sans illumer l'écran
 * Éviter les publicités
+* Des applications installées et ne pas les utiliser. 
+* La gourmandise des logiciels en ressources. --> L'obsolescence programmée.
+* Lazy loading.
+* Congruence
