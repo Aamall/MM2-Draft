@@ -1,0 +1,25 @@
+<<<
+
+== Les clés de la durabilité de logiciels (Matrice)
+
+
+Les critères :  /// reste à faire ///
+
+* Mise à jour selectif : batch/ sécurité/fonctionnalité
+* CPU
+* Mémoire
+* Battarie
+* Utiliser des ressources
+* Bilan ? 
+* Temps-Bugs ?
+* Open source
+* Travailler en arrière paln
+* Consomption d'energy
+* Low-tech / Jigh tech
+* APK/Space/
+* Préparation de logiciels
+* Consommer des ressources
+* Lancer automatiquement au démarage par défaut
+* Mode nuit / jour
+* Logiciels audio / travailler sans illumer l'écran
+* Éviter les publicités
