@@ -2,7 +2,8 @@
 
 <<<
 == L'importance du couplage entre Software et Hardware
-De l'importance du couplage entre le logiciel et le matériel qu'elle s'agit de travailler sur la durabilité du logiciel qui offre la durabilité du matériel. Sans l'existence de la durabilité du matériel, il n'y a aucun intérêt à la durabilité des logiciels, car l'empreinte écologique dépend de la durabilité du matériel.
+L'objectif essentiel de la durabilité des logiciels qu'elle s'agit de travailler sur la durabilité des matériels. Sans l'existence de la durabilité des matériels, il y n'a pas de sens de la durabilité des logiciels. 
+Car l’empreinte écologique dépend de la durabilité du matériel !
 
 === L'empreinte environnementale de matériels informatiques
 
@@ -39,11 +40,30 @@ Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de Green
 
 Ces résultats nous encouragent donc à réduire autant que possible ces impacts environnementaux. Car après tout ce qui précède, nous constatons le grand effet de la technologie numérique sur l'environnement, qui augmente chaque année avec la croissance des équipements numériques et de leurs utilisations. Cette croissance est liée au soutien de l'économie, il n'est donc plus acceptable d'accélérer volontairement notre empreinte numérique uniquement pour le bien de l'économie, ce qui est la principale raison de la croissance effrénée des impacts numériques. 
 
-En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'info <<F>>) .
+En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'information <<F>>) .
 
-=== Démonstration de l'importance du couplage entre Software et Hardware
-reste à faire
-==== Conditions préalables pour des matériles durables
+=== Démonstration de l'importance du couplage entre Software et Hardware /// reste à faire ///
+
+L'objectif essentiel de la durabilité des logiciels qu'elle s'agit de travailler sur la durabilité des matériels. Sans l'existence de la durabilité des matériels, il y n'a pas de sens de la durabilité des logiciels. 
+Car l’empreinte écologique dépend de la durabilité du matériel !
+
+Comme l'explique Anne-Cécile Orgerie dans l'article "L'informatique émet plus de gaz à effet de serre que l'aviation <<L>>", que TIC et tous les équipements informatiques représentent entre 2 à 10 % des émissions de dioxyde de carbone selon les études, avec un consensus autour de 4-5 %. En comparaison, l’aviation représente environ 2 % des émissions de dioxyde de carbone.
+
+Des études montrent que les deux phases de fabrication et de recyclage sont responsables de la plus forte proportion d'émissions de dioxyde de carbone. D'où l'importance du couplage entre le matériel et les logiciels pour développer des logiciels durables afin de rendre le matériel plus durable avec la plus longue période d'utilisation possible.
+
+La durabilité des logiciels ne suffit pas à elle seule à rendre le matériel durable. En même temps, il y a aussi des conditions préalables à la durabilité du matériel. Celles-ci sont présentées ci-dessous.
+
+==== Conditions préalables pour des matériels durables
+
+Une bonne utilisation de l'équipement permettra de le faire fonctionner le plus longtemps possible.
+Voici les conditions de maintenir de l'équipement : 
+
+* Ne mettez pas l'équipement à la chaleur ou à l'humidité. 
+* Évitez de charger les ordinateurs portables et les smartphones pendant leur utilisation.
+* Évitez de télécharger des applications et des logiciels qui ne sont pas nécessaires, car ils prennent de l'espace mémoire et s'ils fonctionnent toujours en arrière-plan, cela entraîne une consommation d'énergie plus élevée et donc un cycle de vie des battaries plus court.
+* 
+
+
 
 Décrire les mauvaises conditions de maintenir les machaines
 .... les bonnes 
@@ -51,18 +71,21 @@ smartphone tap
 pc
 serveur
 
-==== le logiciel peut aussi endommager le matériel 
+==== le logiciel peut aussi endommager le matériel  /// reste à faire ///
 
 sur cheuve temp monte trop 
 
 
-=== Cycle de vie d'un matériel informatique
+=== Cycle de vie d'un matériel informatique  /// reste à faire ///
 
 Comme il le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : est l'ensemble du matériel informatique, des logiciels. Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et des logiciels. 
 
 Dans ce paragraphe, nous parlerons du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
 
-/// reste à faire ///
+
+==== Les impactes du cycle de vie d'un matériel : 
+
+Pour illustrer l'empreinte des gaz à effet de serre (GES) d'un ordinateur, nous allons résumer l'article "Quelle est l'empreinte carbone d'un ordinateur" publié sur le site GreenIT.fr <<M>>. L'article présente les résultats du travail de Fujitsu avec l'Institut de recherche Bifa à Ausbourg pour présenter l'empreinte en gaz à effet de serre (GES) de son ordinateur de bureau Esprimo E9900.  L'étude a été menée conformément aux normes internationales ISO 14040 et ISO 14044, qui définissent la méthodologie pour réaliser une analyse du cycle de vie (ACV). Son empreinte totale de GES sans l'écran est de 339 kg d'équivalent CO2, ce qui comprend les trois phases de fabrication, de transport et d'assemblage des composants. Pour la phase d'utilisation, sa consommation annuelle est de 113,6 kWh. Avec l'ajout de l'écran, qui émet 676 kg d'équivalent CO2. Cela nous donne un ordre de grandeur de l'empreinte globale d'un poste de travail récent : 1015 kg d'équivalent CO2 pour un poste de travail complet ! 
 
 
 === Cycle de vie d'un logiciel
@@ -100,3 +123,34 @@ De tout ce qui précède, nous avons résumé le cycle de vie des logiciels et l
 [caption="Figure 13: "]
 image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel]
 
+==== Que savent les programmeurs de la consommation d'énergie des logiciels ?
+
+Les chercheurs ont mené une enquête présentée dans l'article "What Do Programmers Know about Software Energy Consumption? <<N>>", qui a révélé que les programmeurs avaient une connaissance limitée de l'efficacité énergétique, n'étaient pas au courant des meilleures pratiques pour réduire la consommation d'énergie des logiciels et n'étaient pas sûrs de la manière dont les logiciels consomment l'énergie. Cette question d'une exigence non fonctionnelle devient très importante avec la popularité croissante de l'informatique mobile et l'émergence de déploiements de cloud à grande échelle, et en sachant que si la consommation d'énergie au niveau individuel était négligeable, elle ne le serait pas à l'échelle mondiale car l'énergie consommée par tous les appareils mobiles et les centres de données se multiplie.
+
+L'enquête menée par ces chercheurs était anonyme en ligne et comportait 13 questions en quatre étapes.
+Les résultats mettent en évidence le besoin de formation sur la consommation d'énergie et l'efficacité énergétique des logiciels, montrant que le sujet de l'efficacité énergétique est rarement abordé par les programmeurs, et qu'il y a peu de demande de la part des utilisateurs, qui s'intéressent à la fois à la vitesse de développement et aux performances raisonnables des logiciels, ce qui signifie que le manque d'attention à la consommation d'énergie des logiciels est une priorité. Cela signifie également que les programmeurs ne s'intéresseront probablement pas à l'efficacité énergétique des logiciels si les clients ne le demandent pas. Il est donc nécessaire d'éduquer le public de manière appropriée afin que les clients et les programmeurs soient conscients de la consommation énergétique des logiciels. Les résultats de l'enquête montrent également que les programmeurs ne savent pas comment mesurer avec précision la consommation énergétique de leurs logiciels, puisque les méthodes de mesure (par compteur électrique, batterie, alimentation électrique, mesure des ressources, outils logiciels et temps CPU), mesurent la consommation énergétique globale du matériel, et non la consommation énergétique des logiciels. <<N>>
+
+Les chercheurs indiquent que pour analyser correctement les raisons sous-jacentes de la consommation d'énergie des logiciels, les programmeurs doivent comprendre les interactions entre les composants de haut niveau et de bas niveau. En outre, et sur la base des résultats de l'enquête montrant que les opinions des personnes interrogées varient largement sur la meilleure façon de réduire la consommation d'énergie des logiciels, les chercheurs indiquent que les cours universitaires n'enseignent généralement pas le lien entre de meilleurs algorithmes et la consommation d'énergie. <<N>>
+
+Selon le rapport publié par les chercheurs, leurs conclusions sont très similaires à celles de Gustavo Pinto et de ses collègues, qui ont extrait des données de StackOverflow pour découvrir sept raisons de la consommation d'énergie inutile des logiciels : <<N>>
+
+* Utilisation inutile des ressources.
+* Comportement défectueux du GPS.
+* Activité de fond.
+* Synchronisation excessive.
+* Les fonds d'écran.
+*  Publicité.
+* Utilisation élevée du GPU.
+
+Selon le rapport des chercheurs, Pinto et ses collègues ont identifié huit stratégies pour réduire la consommation d'énergie en modifiant le logiciel : <<N>>
+
+* Minimiser les E / S.
+* Traitement par lots (batch processing en anglais).
+* Interrogé fonctionnement.
+* Coordination matérielle.
+* Programmation simultanée.
+* Initialisation paresseuse.
+* Tourner au ralenti (race to idle, en anglais).
+* Structure de données efficace.
+
+De la part des chercheurs, ces stratégies devraient faire partie de la formation des programmeurs. De plus, selon eux, des outils de développement peuvent être créés pour identifier les consommations d'énergie inutiles et faire des recommandations pour réduire la consommation d'énergie, et les enseignants peuvent développer des diapositives, des vidéos, des projets et des devoirs dans le cadre du cours de premier cycle sur l'efficacité et la durabilité énergétiques. <<N>>

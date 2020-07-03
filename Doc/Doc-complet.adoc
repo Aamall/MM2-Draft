@@ -51,8 +51,14 @@ https://www.pourlascience.fr/sd/informatique/linformatique-emet-plus-de-gaz-a-ef
 - [[[K,11]]] Didier Buchs, 20 May 2014, Cycle de vie du logiciel.
 https://www.researchgate.net/profile/Didier_Buchs/publication/37422534_Cycle_de_vie_du_logiciel/links/0fcfd5111030d47f2c000000.pdf[L'article]
 
+- [[[L,12]]] L'informatique émet plus de gaz à effet de serre que l'aviation, 21 octobre 2015, 
+https://www.pourlascience.fr/sd/informatique/linformatique-emet-plus-de-gaz-a-effet-de-serre-que-laviation-8741.php[L'article]
 
- 
+- [[[M,13]]] Quelle est l’empreinte carbone d’un ordinateur ?. site GreenIT.fr
+https://www.greenit.fr/2011/02/10/quelle-est-l-empreinte-carbone-d-un-ordinateur/[L'article]
+
+- [[[N,14]]] Candy Pang and Abram Hindle, University of Alberta, Bram Adams, Polytechnique Montréal, Ahmed E. Hassan, Queen’s University. What Do Programmers Know about Software Energy Consumption? IEEE Software, 2015 - ieeexplore.ieee.org.  Cité 85 fois.
+https://www.researchgate.net/profile/Ahmed_E_Hassan/publication/282540010_What_Do_Programmers_Know_about_Software_Energy_Consumption/links/578fd90608ae4e917cff3919/What-Do-Programmers-Know-about-Software-Energy-Consumption.pdf[L'article]
 
 
 
