@@ -78,9 +78,71 @@ sur cheuve temp monte trop
 
 === Cycle de vie d'un matériel informatique  /// reste à faire ///
 
-Comme il le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : est l'ensemble du matériel informatique, des logiciels. Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et des logiciels. 
+Comme il le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : "est l'ensemble du matériel informatique, des logiciels". Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et des logiciels. 
 
 Dans ce paragraphe, nous parlerons du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
+
+Pour montrer le cycle de vie d'un matériel informatique, nous avons choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions du cycle de vie d'un appareil informatique en Corée du Sud.
+
+D'un point de vue général, le cycle de vie d'un dispositif informatique peut être segmenté en cinq grandes phases : 
+
+* Préfabrication.
+* Fabrication.
+* Distribution et Transportation.
+* Usage.
+* Disposition.
+
+Le champ d'application de chaque phase sera défini, suivi des impacts environnementaux résultant de cette phase, les catégories adoptées pour classer les impacts environnementaux étant : 
+
+* Les effets écologiques de l'appauvrissement abiotique.
+* Le réchauffement climatique.
+* L’écotoxicité.
+* La toxicité humaine.
+* L’acidification.
+* L’appauvrissement de la zone stratosphérique.
+* La formation de photo-oxydant.
+* L’eutrophisation.
+
+====  Le cycle de vie d'un dispositif informatique : 
+
+* Préfabrication : 
+
+Pour cette phase, les quatre chercheurs ont utilisé plusieurs bases de données afin de rassembler les informations sur les composants d'un dispositif informatique nécessaires pour établir et analyser le cycle de vie du dernier. Les bases de données utilisées sont les bases de données nationales de la Corée du Sud (celles du ministère de l'environnement et du ministère du commerce, de l'industrie et de l'énergie) avec la base de données du logiciel SIMAPRO.
+Comme il était difficile de rassembler toutes les informations nécessaires, étant donné que de nombreux composants électriques et électroniques de l'appareil informatique contiennent des sous-composants, l'étude du cycle de vie s'est concentrée sur plusieurs composants importants tels que : le boîtier de l'appareil informatique, l'alimentation électrique, le disque dur, le CD-ROM, les cartes vidéo et les cartes audio.
+
+Cette phase s'est avérée être celle qui contribue le plus à toutes les catégories d'impacts environnementaux, à l'exception de la toxicité pour l'homme. Cela peut se comprendre étant donné que la fabrication de petites pièces électriques et de plusieurs composants électroniques pendant cette phase nécessite une quantité importante de matériaux et d'énergie, et émet des quantités importantes de pollution atmosphérique, d'eaux usées et de déchets solides.
+
+* Fabrication : 
+
+Cette phase comprend généralement deux processus : l'assemblage des composants électriques et électroniques, et l'emballage du matériel informatique.
+Pour étudier cette phase, les quatre chercheurs ont utilisé les données sur la production d'électricité disponibles dans la base de données nationale, ainsi que les données fournies par deux grandes entreprises coréennes : Samsung Electronics Co. et TriGem Computer Co.
+
+Les activités de cette phase nécessitent peu d'électricité et émettent peu de polluants dans l'air, les eaux usées ou les déchets solides.
+
+* Distribution et Transportation : 
+
+Cette phase a été établie sur la base de l'hypothèse suivante : 
+La distance moyenne entre les deux principaux fabricants, mentionnés précédemment, et les points de livraison importants est de 230 km. Cette distance est couverte par des camions de 2,5 tonnes pouvant transporter 110 dispositifs informatiques.
+
+Les catégories d'impact environnemental sont peu affectées par les activités de cette phase. Il s'agit principalement du réchauffement climatique, de la toxicité humaine et de l'écotoxicité.
+
+* Usage : 
+
+Cette étude considère que le matériel informatique est principalement utilisé à la maison et au bureau.
+De ce point de vue, et en utilisant les données disponibles dans la base de données du ministère coréen du commerce, de l'industrie et de l'énergie, la consommation d'énergie de l'appareil informatique domestique pendant sa période d'utilisation de 4 ans en Corée du Sud est estimée à 195,53 kWh. D'autre part, la consommation d'énergie de l'ordinateur utilisé au bureau, pour la même période d'utilisation, est estimée à 305,21 kWh.
+
+Selon les résultats de cette étude, il s'avère que cette phase est la deuxième plus néfaste, en termes d'impacts environnementaux, après la phase de préfabrication.
+Cela peut se comprendre étant donné que la consommation d'énergie provenant des ressources en combustibles fossiles pendant cette phase contribue de manière significative aux effets écologiques de l'épuisement abiotique, du réchauffement climatique, de l'acidification et de l'eutrophisation.
+
+* Élimination :
+
+Les quatre chercheurs ont envisagé deux scénarios pour cette phase : la mise en décharge ou le recyclage, le recyclage comportant quatre processus : la collecte, le démantèlement, la pré-manutention et le traitement en raffinerie.
+Les quatre chercheurs ont utilisé la base de données du ministère coréen du commerce, de l'industrie et de l'énergie, ainsi que les données fournies par Korea Computer Recycling Inc, pour déterminer le taux de recyclage d'un appareil informatique en Corée du Sud.
+Ce taux est fixé à 46%, ce qui signifie que 54% du matériel informatique se retrouve à la décharge.
+
+Cette phase s'est avérée être un facteur majeur de la toxicité pour l'homme. Elle a également largement contribué à l'écotoxicité, juste après la phase de préfabrication. La phase d'élimination dans cette étude comprenait la collecte, le démantèlement, les processus de raffinage pour le recyclage et l'incinération ou la mise en décharge. Parmi ces procédés, la mise en décharge pourrait être le facteur le plus important de toxicité pour l'homme.
+
+Le recyclage du matériel informatique a une influence à la fois positive et négative sur les catégories d'impact environnemental. L'huile légère utilisée dans le processus de collecte des déchets du matériel informatique, ainsi que la consommation d'acide nitrique, d'acide sulfurique, d'acide chlorhydrique et d'agent désoxydant dans le processus de raffinage sont des raisons importantes de la toxicité et de l'écotoxicité pour l'homme. Néanmoins, le recyclage du matériel informatique réduit la charge des impacts environnementaux du cycle de vie, en particulier les effets écologiques de l'épuisement abiotique. Les émissions de CO2 et l'énergie récupérée lors du processus d'incinération n'ont pas été prises en compte dans cette étude. L'inclusion de ces facteurs peut également affecter les résultats de l'impact environnemental potentiel du recyclage des équipements informatiques.
 
 
 ==== Les impactes du cycle de vie d'un matériel : 
